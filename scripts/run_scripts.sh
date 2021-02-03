@@ -1,0 +1,2 @@
+perl ~/Documents/scripts/parse_csv_data.pl -i ~/Documents/scripts/peru/excel/ -o ~/Documents/scripts/peru/pre_pheno/
+perl ~/Documents/scripts/get_names_folder.pl  ~/Documents/scripts/peru/pre_pheno  ~/Documents/scripts/peru/peru_pheno

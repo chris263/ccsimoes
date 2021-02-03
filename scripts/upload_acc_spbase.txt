@@ -1,0 +1,1415 @@
+LABEL	NAME	UNIQUENAME	GENOTYPE	SYNONYM1	SYNONYM2	PLOIDY	INSTITUTE	GERMPLASM_GROUP	CURATOR	PROJECT_NAME	CATEGORY	PROJECT_TYPE	YEAR	PROJECT_DESCRIPTION	LOCATION	LOCATION_CODE
+1	10-NC99-524-1					6	Mozambique-CIP		bdeboeck							
+2	10-NC99-524-2					6	Mozambique-CIP		bdeboeck							
+3	10-NC99-524-3					6	Mozambique-CIP		bdeboeck							
+4	10-NC99-524-4					6	Mozambique-CIP		bdeboeck							
+5	10-NC99-524-5					6	Mozambique-CIP		bdeboeck							
+6	10-NC99-524-6					6	Mozambique-CIP		bdeboeck							
+7	10-NC99-524-7					6	Mozambique-CIP		bdeboeck							
+8	10-NC99-524-8					6	Mozambique-CIP		bdeboeck							
+9	11-Hernandes-1					6	Mozambique-CIP		bdeboeck							
+10	11-Hernandes-2					6	Mozambique-CIP		bdeboeck							
+11	11-Hernandes-3					6	Mozambique-CIP		bdeboeck							
+12	11-Hernandes-4					6	Mozambique-CIP		bdeboeck							
+13	11-Hernandes-5					6	Mozambique-CIP		bdeboeck							
+14	11-Hernandes-6					6	Mozambique-CIP		bdeboeck							
+15	11-Hernandes-7					6	Mozambique-CIP		bdeboeck							
+16	12-Hernandes-1					6	Mozambique-CIP		bdeboeck							
+17	12-Hernandes-2					6	Mozambique-CIP		bdeboeck							
+18	12-Hernandes-3					6	Mozambique-CIP		bdeboeck							
+19	12-Hernandes-4					6	Mozambique-CIP		bdeboeck							
+20	13-NC9350A-1					6	Mozambique-CIP		bdeboeck							
+21	13-NC9350A-10					6	Mozambique-CIP		bdeboeck							
+22	13-NC9350A-11					6	Mozambique-CIP		bdeboeck							
+23	13-NC9350A-12					6	Mozambique-CIP		bdeboeck							
+24	13-NC9350A-13					6	Mozambique-CIP		bdeboeck							
+25	13-NC9350A-14					6	Mozambique-CIP		bdeboeck							
+26	13-NC9350A-15					6	Mozambique-CIP		bdeboeck							
+27	13-NC9350A-2					6	Mozambique-CIP		bdeboeck							
+28	13-NC9350A-3					6	Mozambique-CIP		bdeboeck							
+29	13-NC9350A-4					6	Mozambique-CIP		bdeboeck							
+30	13-NC9350A-5					6	Mozambique-CIP		bdeboeck							
+31	13-NC9350A-6					6	Mozambique-CIP		bdeboeck							
+32	13-NC9350A-7					6	Mozambique-CIP		bdeboeck							
+33	13-NC9350A-8					6	Mozambique-CIP		bdeboeck							
+34	13-NC9350A-9					6	Mozambique-CIP		bdeboeck							
+35	18-NC99-524-1					6	Mozambique-CIP		bdeboeck							
+36	18-NC99-524-2					6	Mozambique-CIP		bdeboeck							
+37	18-NC99-524-3					6	Mozambique-CIP		bdeboeck							
+38	18-NC99-524-4					6	Mozambique-CIP		bdeboeck							
+39	199005.11XResisto-118					6	Mozambique-CIP		bdeboeck							
+40	199005.11XResisto-44					6	Mozambique-CIP		bdeboeck							
+41	199005.11XResisto-48					6	Mozambique-CIP		bdeboeck							
+42	199005.11XResisto-67					6	Mozambique-CIP		bdeboeck							
+43	1998-12-3-2					6	Mozambique-CIP		bdeboeck							
+44	1998-12-3xResisto-134					6	Mozambique-CIP		bdeboeck							
+45	1998-12-3XResisto-157					6	Mozambique-CIP		bdeboeck							
+46	1998-12-3XResisto-179					6	Mozambique-CIP		bdeboeck							
+47	1998-12-3XResisto-2					6	Mozambique-CIP		bdeboeck							
+48	1998-12-3XResisto-65					6	Mozambique-CIP		bdeboeck							
+49	2000-10-17-1					6	Mozambique-CIP		bdeboeck							
+50	2000-10-17-2					6	Mozambique-CIP		bdeboeck							
+51	2003-17-05-1					6	Mozambique-CIP		bdeboeck							
+52	2003-17-05-2					6	Mozambique-CIP		bdeboeck							
+53	2003-17-05-3					6	Mozambique-CIP		bdeboeck							
+54	26-Beauregard-1					6	Mozambique-CIP		bdeboeck							
+55	5-NC99-524-1					6	Mozambique-CIP		bdeboeck							
+56	5-NC99-524-2					6	Mozambique-CIP		bdeboeck							
+57	5-NC99-524-3					6	Mozambique-CIP		bdeboeck							
+58	6-NC99-524-1					6	Mozambique-CIP		bdeboeck							
+59	6-NC99-524-2					6	Mozambique-CIP		bdeboeck							
+60	6-NC99-524-3					6	Mozambique-CIP		bdeboeck							
+61	6-NC99-524-4					6	Mozambique-CIP		bdeboeck							
+62	6-NC99-524-5					6	Mozambique-CIP		bdeboeck							
+63	6-NC99-524-6					6	Mozambique-CIP		bdeboeck							
+64	7-NC9350A-1					6	Mozambique-CIP		bdeboeck							
+65	7-NC9350A-2					6	Mozambique-CIP		bdeboeck							
+66	7-NC9350A-3					6	Mozambique-CIP		bdeboeck							
+67	7-NC9350A-4					6	Mozambique-CIP		bdeboeck							
+68	7-NC9350A-5					6	Mozambique-CIP		bdeboeck							
+69	7-NC9350A-6					6	Mozambique-CIP		bdeboeck							
+70	7-NC9350A-7					6	Mozambique-CIP		bdeboeck							
+71	8-NC9350A-1					6	Mozambique-CIP		bdeboeck							
+72	8-NC9350A-2					6	Mozambique-CIP		bdeboeck							
+73	8-NC9350A-3					6	Mozambique-CIP		bdeboeck							
+74	8-NC9350A-4					6	Mozambique-CIP		bdeboeck							
+75	8-NC9350A-5					6	Mozambique-CIP		bdeboeck							
+76	8-NC9350A-6					6	Mozambique-CIP		bdeboeck							
+77	8-NC9350A-7					6	Mozambique-CIP		bdeboeck							
+78	91/282-1/35					6	Ghana-CIP		bdeboeck							
+79	98-21-1-1					6	Mozambique-CIP		bdeboeck							
+80	Abees					6	Ghana-CIP		bdeboeck							
+81	Admarc					6	Mozambique-CIP		bdeboeck							
+82	Adriano					6	Peru-CIP		bdeboeck							
+83	Alexander					6	Peru-CIP		bdeboeck							
+84	Alisha					6	Mozambique-CIP		bdeboeck							
+85	Amelia	Maphutha-1				6	Uganda-CIP		bdeboeck							
+86	AP3A	CRI-Gavana	 10.001-10			6	Ghana-CIP		bdeboeck							
+87	APA323	PU2014_A39				6	Uganda-CIP		bdeboeck							
+88	APA335	PU2014_A38				6	Uganda-CIP		bdeboeck							
+89	APA352	PU2014_A27				6	Uganda-CIP		bdeboeck							
+90	APA356	PU2014_B28				6	Uganda-CIP		bdeboeck							
+91	Araka_white					6	Uganda-CIP		bdeboeck							
+92	Atacama					6	Peru-CIP		bdeboeck							
+93	Atacana					6	Mozambique-CIP		bdeboeck							
+94	AVRDC-CN_1448-59					6	Ghana-CIP		bdeboeck							
+95	Awassa-83					6	Ghana-CIP		bdeboeck							
+96	Beauregard	PU2014_B72	 B94-14			6	Uganda-CIP		bdeboeck							
+97	Beauregard-1					6	Mozambique-CIP		bdeboeck							
+98	Beauregard-18					6	Mozambique-CIP		bdeboeck							
+99	Beauregard-2					6	Mozambique-CIP		bdeboeck							
+100	Beauregard-21					6	Mozambique-CIP		bdeboeck							
+101	Beauregard-27					6	Mozambique-CIP		bdeboeck							
+102	Bela					6	Mozambique-CIP		bdeboeck							
+103	Bengal-1					6	Mozambique-CIP		bdeboeck							
+104	Bengal-2					6	Mozambique-CIP		bdeboeck							
+105	Bengal-3					6	Mozambique-CIP		bdeboeck							
+106	Bengal-4					6	Mozambique-CIP		bdeboeck							
+107	Bengal-5					6	Mozambique-CIP		bdeboeck							
+108	Beniazuma					6	Ghana-CIP		bdeboeck							
+109	Benikomachi					6	Ghana-CIP		bdeboeck							
+110	BF59xCIP4	Heere				6	Ghana-CIP		bdeboeck							
+111	BF92xTib2					6	Ghana-CIP		bdeboeck							
+112	Bita					6	Mozambique-CIP		bdeboeck							
+113	Bitambi	PU2014_B57				6	Uganda-CIP		bdeboeck							
+114	Blesbok					6	Peru-CIP		bdeboeck							
+115	Blesbok-1					6	Mozambique-CIP		bdeboeck							
+116	Blesbok-2					6	Mozambique-CIP		bdeboeck							
+117	Blue_Blue					6	Ghana-CIP		bdeboeck							
+118	BND145L	PU2014_B38				6	Uganda-CIP		bdeboeck							
+119	Bost					6	Ghana-CIP		bdeboeck							
+120	BPI-SP-2					6	Ghana-CIP		bdeboeck							
+121	Bravinha_Laranja					6	Mozambique-CIP		bdeboeck							
+122	Brondal					6	Peru-CIP		bdeboeck							
+123	BSH740	PU2014_A16				6	Uganda-CIP		bdeboeck							
+124	BSH741	Mugiga	 PU2014_B37			6	Uganda-CIP		bdeboeck							
+125	Btita2					6	Ghana-CIP		bdeboeck							
+126	Bun5					6	Ghana-CIP		bdeboeck							
+127	Caelan					6	Mozambique-CIP		bdeboeck							
+128	Caplina					6	Peru-CIP		bdeboeck							
+129	CARI9					6	Ghana-CIP		bdeboeck							
+130	Caromex	PU2014_B70				6	Uganda-CIP		bdeboeck							
+131	Carrot_C	PU2014_A01				6	Uganda-CIP		bdeboeck							
+132	Carrot-Dar-OFSP28					6	Ghana-CIP		bdeboeck							
+133	Cecilia	Ejumula_25				6	Uganda-CIP		bdeboeck							
+134	Cemsa_74-228	Cemsa	 CRI-Ligri	 CIP444198		6	Uganda-CIP		bdeboeck							
+135	Cemsa_78-326					6	Ghana-CIP		bdeboeck							
+136	Check(Libertada)					6	Mozambique-CIP		bdeboeck							
+137	Chingova					6	Mozambique-CIP		bdeboeck							
+138	Chingova-4					6	Mozambique-CIP		bdeboeck							
+139	ChingovaXResisto-16					6	Mozambique-CIP		bdeboeck							
+140	ChingovaXResisto-17					6	Mozambique-CIP		bdeboeck							
+141	Chissicuana2					6	Mozambique-CIP		bdeboeck							
+142	CIP105269.1					6	Uganda-CIP		bdeboeck							
+143	CIP105269.10	BT05.230				6	Uganda-CIP		bdeboeck							
+144	CIP105269.100	BT05.330				6	Uganda-CIP		bdeboeck							
+145	CIP105269.101	BT05.331				6	Uganda-CIP		bdeboeck							
+146	CIP105269.102	BT05.332				6	Uganda-CIP		bdeboeck							
+147	CIP105269.104	BT05.334				6	Uganda-CIP		bdeboeck							
+148	CIP105269.107	BT05.337				6	Uganda-CIP		bdeboeck							
+149	CIP105269.108	BT05.338				6	Uganda-CIP		bdeboeck							
+150	CIP105269.111	BT05.341				6	Uganda-CIP		bdeboeck							
+151	CIP105269.112	BT05.342				6	Uganda-CIP		bdeboeck							
+152	CIP105269.114	BT05.344				6	Uganda-CIP		bdeboeck							
+153	CIP105269.115	BT05.345				6	Uganda-CIP		bdeboeck							
+154	CIP105269.117	BT05.348				6	Uganda-CIP		bdeboeck							
+155	CIP105269.118	BT05.349				6	Uganda-CIP		bdeboeck							
+156	CIP105269.119	BT05.351				6	Uganda-CIP		bdeboeck							
+157	CIP105269.12	BT05.232				6	Uganda-CIP		bdeboeck							
+158	CIP105269.120	BT05.352				6	Uganda-CIP		bdeboeck							
+159	CIP105269.121	BT05.353				6	Uganda-CIP		bdeboeck							
+160	CIP105269.122	BT05.354				6	Uganda-CIP		bdeboeck							
+161	CIP105269.124	BT05.357				6	Uganda-CIP		bdeboeck							
+162	CIP105269.125	BT05.358				6	Uganda-CIP		bdeboeck							
+163	CIP105269.127	BT05.360				6	Uganda-CIP		bdeboeck							
+164	CIP105269.128	BT05.361				6	Uganda-CIP		bdeboeck							
+165	CIP105269.129	BT05.362				6	Uganda-CIP		bdeboeck							
+166	CIP105269.13	BT05.233				6	Uganda-CIP		bdeboeck							
+167	CIP105269.132	BT05.365				6	Uganda-CIP		bdeboeck							
+168	CIP105269.133	BT05.367				6	Uganda-CIP		bdeboeck							
+169	CIP105269.134	BT05.368				6	Uganda-CIP		bdeboeck							
+170	CIP105269.135	BT05.369				6	Uganda-CIP		bdeboeck							
+171	CIP105269.137	BT05.371				6	Uganda-CIP		bdeboeck							
+172	CIP105269.141	BT05.375				6	Uganda-CIP		bdeboeck							
+173	CIP105269.142	BT05.376				6	Uganda-CIP		bdeboeck							
+174	CIP105269.143	BT05.377				6	Uganda-CIP		bdeboeck							
+175	CIP105269.144	BT05.378				6	Uganda-CIP		bdeboeck							
+176	CIP105269.145	BT05.379				6	Uganda-CIP		bdeboeck							
+177	CIP105269.146	BT05.381				6	Uganda-CIP		bdeboeck							
+178	CIP105269.147	BT05.382				6	Uganda-CIP		bdeboeck							
+179	CIP105269.151	BT05.388				6	Uganda-CIP		bdeboeck							
+180	CIP105269.152	BT05.389				6	Uganda-CIP		bdeboeck							
+181	CIP105269.154	BT05.394				6	Uganda-CIP		bdeboeck							
+182	CIP105269.155	BT05.395				6	Uganda-CIP		bdeboeck							
+183	CIP105269.156	BT05.396				6	Uganda-CIP		bdeboeck							
+184	CIP105269.157	BT05.397				6	Uganda-CIP		bdeboeck							
+185	CIP105269.158	BT05.398				6	Uganda-CIP		bdeboeck							
+186	CIP105269.160	BT05.400				6	Uganda-CIP		bdeboeck							
+187	CIP105269.161	BT05.401				6	Uganda-CIP		bdeboeck							
+188	CIP105269.163	BT05.403				6	Uganda-CIP		bdeboeck							
+189	CIP105269.166	BT05.406				6	Uganda-CIP		bdeboeck							
+190	CIP105269.167	BT05.408				6	Uganda-CIP		bdeboeck							
+191	CIP105269.168	BT05.409				6	Uganda-CIP		bdeboeck							
+192	CIP105269.172	BT05.415				6	Uganda-CIP		bdeboeck							
+193	CIP105269.176	BT05.419				6	Uganda-CIP		bdeboeck							
+194	CIP105269.177	BT05.420				6	Uganda-CIP		bdeboeck							
+195	CIP105269.18	BT05.239				6	Uganda-CIP		bdeboeck							
+196	CIP105269.181	BT05.424				6	Uganda-CIP		bdeboeck							
+197	CIP105269.184	BT05.427				6	Uganda-CIP		bdeboeck							
+198	CIP105269.186	BT05.429				6	Uganda-CIP		bdeboeck							
+199	CIP105269.187	BT05.430				6	Uganda-CIP		bdeboeck							
+200	CIP105269.194	BT05.438				6	Uganda-CIP		bdeboeck							
+201	CIP105269.197	BT05.447				6	Uganda-CIP		bdeboeck							
+202	CIP105269.198	BT05.449				6	Uganda-CIP		bdeboeck							
+203	CIP105269.199	BT05.454				6	Uganda-CIP		bdeboeck							
+204	CIP105269.22	BT05.243				6	Uganda-CIP		bdeboeck							
+205	CIP105269.23	BT05.246				6	Uganda-CIP		bdeboeck							
+206	CIP105269.24	BT05.247				6	Uganda-CIP		bdeboeck							
+207	CIP105269.25	BT05.248				6	Uganda-CIP		bdeboeck							
+208	CIP105269.31	BT05.255				6	Uganda-CIP		bdeboeck							
+209	CIP105269.37	BT05.261				6	Uganda-CIP		bdeboeck							
+210	CIP105269.38	BT05.262				6	Uganda-CIP		bdeboeck							
+211	CIP105269.39	BT05.263				6	Uganda-CIP		bdeboeck							
+212	CIP105269.4	BT05.224				6	Uganda-CIP		bdeboeck							
+213	CIP105269.42	BT05.266				6	Uganda-CIP		bdeboeck							
+214	CIP105269.43	BT05.267				6	Uganda-CIP		bdeboeck							
+215	CIP105269.44	BT05.268				6	Uganda-CIP		bdeboeck							
+216	CIP105269.45	BT05.269				6	Uganda-CIP		bdeboeck							
+217	CIP105269.50	BT05.274				6	Uganda-CIP		bdeboeck							
+218	CIP105269.51	BT05.275				6	Uganda-CIP		bdeboeck							
+219	CIP105269.52	BT05.276				6	Uganda-CIP		bdeboeck							
+220	CIP105269.54	BT05.280				6	Uganda-CIP		bdeboeck							
+221	CIP105269.59	BT05.285				6	Uganda-CIP		bdeboeck							
+222	CIP105269.6	BT05.226				6	Uganda-CIP		bdeboeck							
+223	CIP105269.61	BT05.287				6	Uganda-CIP		bdeboeck							
+224	CIP105269.62	BT05.288				6	Uganda-CIP		bdeboeck							
+225	CIP105269.63	BT05.289				6	Uganda-CIP		bdeboeck							
+226	CIP105269.65					6	Uganda-CIP		bdeboeck							
+227	CIP105269.66	BT05.292				6	Uganda-CIP		bdeboeck							
+228	CIP105269.68	BT05.296				6	Uganda-CIP		bdeboeck							
+229	CIP105269.7	BT05.227				6	Uganda-CIP		bdeboeck							
+230	CIP105269.70	BT05.300				6	Uganda-CIP		bdeboeck							
+231	CIP105269.71	BT05.301				6	Uganda-CIP		bdeboeck							
+232	CIP105269.72	BT05.302				6	Uganda-CIP		bdeboeck							
+233	CIP105269.74	BT05.304				6	Uganda-CIP		bdeboeck							
+234	CIP105269.75	BT05.305				6	Uganda-CIP		bdeboeck							
+235	CIP105269.76	BT05.306				6	Uganda-CIP		bdeboeck							
+236	CIP105269.78	BT05.308				6	Uganda-CIP		bdeboeck							
+237	CIP105269.8	BT05.228				6	Uganda-CIP		bdeboeck							
+238	CIP105269.80	BT05.310				6	Uganda-CIP		bdeboeck							
+239	CIP105269.82	BT05.312				6	Uganda-CIP		bdeboeck							
+240	CIP105269.83	BT05.313				6	Uganda-CIP		bdeboeck							
+241	CIP105269.85	BT05.315				6	Uganda-CIP		bdeboeck							
+242	CIP105269.86	BT05.316				6	Uganda-CIP		bdeboeck							
+243	CIP105269.88	BT05.318				6	Uganda-CIP		bdeboeck							
+244	CIP105269.89	BT05.319				6	Uganda-CIP		bdeboeck							
+245	CIP105269.9	BT05.229				6	Uganda-CIP		bdeboeck							
+246	CIP105269.90	BT05.320				6	Uganda-CIP		bdeboeck							
+247	CIP105269.91	BT05.321				6	Uganda-CIP		bdeboeck							
+248	CIP105269.92	BT05.322				6	Uganda-CIP		bdeboeck							
+249	CIP105269.93	BT05.323				6	Uganda-CIP		bdeboeck							
+250	CIP105269.94	BT05.324				6	Uganda-CIP		bdeboeck							
+251	CIP105269.95	BT05.325				6	Uganda-CIP		bdeboeck							
+252	CIP105269.97	BT05.327				6	Uganda-CIP		bdeboeck							
+253	CIP105269.98	BT05.328				6	Uganda-CIP		bdeboeck							
+254	CIP105269.99	BT05.329				6	Uganda-CIP		bdeboeck							
+255	CIP107729.9					6	Uganda-CIP		bdeboeck							
+256	CIP112143.10					6	Peru-CIP		bdeboeck							
+257	CIP112144.1					6	Peru-CIP		bdeboeck							
+258	CIP112144.2					6	Peru-CIP		bdeboeck							
+259	CIP112145.1					6	Peru-CIP		bdeboeck							
+260	CIP112145.2					6	Peru-CIP		bdeboeck							
+261	CIP112145.4					6	Peru-CIP		bdeboeck							
+262	CIP112145.5					6	Peru-CIP		bdeboeck							
+263	CIP112146.1					6	Peru-CIP		bdeboeck							
+264	CIP112146.11					6	Peru-CIP		bdeboeck							
+265	CIP112146.12					6	Peru-CIP		bdeboeck							
+266	CIP112146.13					6	Peru-CIP		bdeboeck							
+267	CIP112146.16					6	Peru-CIP		bdeboeck							
+268	CIP112146.18					6	Peru-CIP		bdeboeck							
+269	CIP112146.19					6	Peru-CIP		bdeboeck							
+270	CIP112146.3					6	Peru-CIP		bdeboeck							
+271	CIP112146.4					6	Peru-CIP		bdeboeck							
+272	CIP112146.5					6	Peru-CIP		bdeboeck							
+273	CIP112146.6					6	Peru-CIP		bdeboeck							
+274	CIP112146.7					6	Peru-CIP		bdeboeck							
+275	CIP112146.9					6	Peru-CIP		bdeboeck							
+276	CIP112147.1					6	Peru-CIP		bdeboeck							
+277	CIP112147.11					6	Peru-CIP		bdeboeck							
+278	CIP112147.15					6	Peru-CIP		bdeboeck							
+279	CIP112147.17					6	Peru-CIP		bdeboeck							
+280	CIP112147.2					6	Peru-CIP		bdeboeck							
+281	CIP112147.20					6	Peru-CIP		bdeboeck							
+282	CIP112147.5					6	Peru-CIP		bdeboeck							
+283	CIP112147.8					6	Peru-CIP		bdeboeck							
+284	CIP112148.16					6	Peru-CIP		bdeboeck							
+285	CIP112149.1					6	Peru-CIP		bdeboeck							
+286	CIP112149.10					6	Peru-CIP		bdeboeck							
+287	CIP112149.12					6	Peru-CIP		bdeboeck							
+288	CIP112149.14					6	Peru-CIP		bdeboeck							
+289	CIP112149.15					6	Peru-CIP		bdeboeck							
+290	CIP112149.17					6	Peru-CIP		bdeboeck							
+291	CIP112149.18					6	Peru-CIP		bdeboeck							
+292	CIP112149.21					6	Peru-CIP		bdeboeck							
+293	CIP112149.3					6	Peru-CIP		bdeboeck							
+294	CIP112149.4					6	Peru-CIP		bdeboeck							
+295	CIP112149.5					6	Peru-CIP		bdeboeck							
+296	CIP112149.9					6	Peru-CIP		bdeboeck							
+297	CIP112150.1					6	Peru-CIP		bdeboeck							
+298	CIP112150.12					6	Peru-CIP		bdeboeck							
+299	CIP112150.14					6	Peru-CIP		bdeboeck							
+300	CIP112150.15					6	Peru-CIP		bdeboeck							
+301	CIP112150.3					6	Peru-CIP		bdeboeck							
+302	CIP112150.7					6	Peru-CIP		bdeboeck							
+303	CIP112151.2					6	Peru-CIP		bdeboeck							
+304	CIP112151.3					6	Peru-CIP		bdeboeck							
+305	CIP112152.1					6	Peru-CIP		bdeboeck							
+306	CIP112152.11					6	Peru-CIP		bdeboeck							
+307	CIP112152.12					6	Peru-CIP		bdeboeck							
+308	CIP112152.14					6	Peru-CIP		bdeboeck							
+309	CIP112152.17					6	Peru-CIP		bdeboeck							
+310	CIP112152.3					6	Peru-CIP		bdeboeck							
+311	CIP112152.7					6	Peru-CIP		bdeboeck							
+312	CIP112152.8					6	Peru-CIP		bdeboeck							
+313	CIP112152.9					6	Peru-CIP		bdeboeck							
+314	CIP112153.2					6	Peru-CIP		bdeboeck							
+315	CIP112154.3					6	Peru-CIP		bdeboeck							
+316	CIP112155.1					6	Peru-CIP		bdeboeck							
+317	CIP112155.2					6	Peru-CIP		bdeboeck							
+318	CIP112155.3					6	Peru-CIP		bdeboeck							
+319	CIP112156.4					6	Peru-CIP		bdeboeck							
+320	CIP112158.3					6	Peru-CIP		bdeboeck							
+321	CIP112158.4					6	Peru-CIP		bdeboeck							
+322	CIP112158.6					6	Peru-CIP		bdeboeck							
+323	CIP112160.1					6	Peru-CIP		bdeboeck							
+324	CIP112161.1					6	Peru-CIP		bdeboeck							
+325	CIP112161.2					6	Peru-CIP		bdeboeck							
+326	CIP112161.4					6	Peru-CIP		bdeboeck							
+327	CIP112161.5					6	Peru-CIP		bdeboeck							
+328	CIP112162.1					6	Peru-CIP		bdeboeck							
+329	CIP112162.2					6	Peru-CIP		bdeboeck							
+330	CIP112162.3					6	Peru-CIP		bdeboeck							
+331	CIP112162.4					6	Peru-CIP		bdeboeck							
+332	CIP112162.6					6	Peru-CIP		bdeboeck							
+333	CIP112162.7					6	Peru-CIP		bdeboeck							
+334	CIP112163.1					6	Peru-CIP		bdeboeck							
+335	CIP112163.3					6	Peru-CIP		bdeboeck							
+336	CIP112164.1					6	Peru-CIP		bdeboeck							
+337	CIP112164.10					6	Peru-CIP		bdeboeck							
+338	CIP112164.11					6	Peru-CIP		bdeboeck							
+339	CIP112164.12					6	Peru-CIP		bdeboeck							
+340	CIP112164.13					6	Peru-CIP		bdeboeck							
+341	CIP112164.14					6	Peru-CIP		bdeboeck							
+342	CIP112164.2					6	Peru-CIP		bdeboeck							
+343	CIP112164.4					6	Peru-CIP		bdeboeck							
+344	CIP112164.8					6	Peru-CIP		bdeboeck							
+345	CIP112164.9					6	Peru-CIP		bdeboeck							
+346	CIP112165.2					6	Peru-CIP		bdeboeck							
+347	CIP112165.3					6	Peru-CIP		bdeboeck							
+348	CIP112166.1					6	Peru-CIP		bdeboeck							
+349	CIP112166.2					6	Peru-CIP		bdeboeck							
+350	CIP112166.6					6	Peru-CIP		bdeboeck							
+351	CIP112168.1					6	Peru-CIP		bdeboeck							
+352	CIP112168.2					6	Peru-CIP		bdeboeck							
+353	CIP112168.3					6	Peru-CIP		bdeboeck							
+354	CIP112168.4					6	Peru-CIP		bdeboeck							
+355	CIP112168.6					6	Peru-CIP		bdeboeck							
+356	CIP112169.1					6	Peru-CIP		bdeboeck							
+357	CIP112169.3					6	Peru-CIP		bdeboeck							
+358	CIP112169.4					6	Peru-CIP		bdeboeck							
+359	CIP112169.5					6	Peru-CIP		bdeboeck							
+360	CIP112169.6					6	Peru-CIP		bdeboeck							
+361	CIP112169.7					6	Peru-CIP		bdeboeck							
+362	CIP112169.8					6	Peru-CIP		bdeboeck							
+363	CIP112170.1					6	Peru-CIP		bdeboeck							
+364	CIP112170.3					6	Peru-CIP		bdeboeck							
+365	CIP112170.4					6	Peru-CIP		bdeboeck							
+366	CIP112170.5					6	Peru-CIP		bdeboeck							
+367	CIP112170.7					6	Peru-CIP		bdeboeck							
+368	CIP112170.8					6	Peru-CIP		bdeboeck							
+369	CIP112170.9					6	Peru-CIP		bdeboeck							
+370	CIP112172.4					6	Peru-CIP		bdeboeck							
+371	CIP112172.5					6	Peru-CIP		bdeboeck							
+372	CIP112172.7					6	Peru-CIP		bdeboeck							
+373	CIP112172.8					6	Peru-CIP		bdeboeck							
+374	CIP112173.11					6	Peru-CIP		bdeboeck							
+375	CIP112173.13					6	Peru-CIP		bdeboeck							
+376	CIP112173.16					6	Peru-CIP		bdeboeck							
+377	CIP112173.3					6	Peru-CIP		bdeboeck							
+378	CIP112173.4					6	Peru-CIP		bdeboeck							
+379	CIP112173.5					6	Peru-CIP		bdeboeck							
+380	CIP112175.2					6	Peru-CIP		bdeboeck							
+381	CIP112175.3					6	Peru-CIP		bdeboeck							
+382	CIP112175.5					6	Peru-CIP		bdeboeck							
+383	CIP112175.6					6	Peru-CIP		bdeboeck							
+384	CIP112176.1					6	Peru-CIP		bdeboeck							
+385	CIP112176.4					6	Peru-CIP		bdeboeck							
+386	CIP112177.1					6	Peru-CIP		bdeboeck							
+387	CIP112177.10					6	Peru-CIP		bdeboeck							
+388	CIP112177.13					6	Peru-CIP		bdeboeck							
+389	CIP112177.14					6	Peru-CIP		bdeboeck							
+390	CIP112177.15					6	Peru-CIP		bdeboeck							
+391	CIP112177.16					6	Peru-CIP		bdeboeck							
+392	CIP112177.17					6	Peru-CIP		bdeboeck							
+393	CIP112177.18					6	Peru-CIP		bdeboeck							
+394	CIP112177.19					6	Peru-CIP		bdeboeck							
+395	CIP112177.3					6	Peru-CIP		bdeboeck							
+396	CIP112177.4					6	Peru-CIP		bdeboeck							
+397	CIP112177.5					6	Peru-CIP		bdeboeck							
+398	CIP112177.7					6	Peru-CIP		bdeboeck							
+399	CIP112177.8					6	Peru-CIP		bdeboeck							
+400	CIP112177.9					6	Peru-CIP		bdeboeck							
+401	CIP112178.10					6	Peru-CIP		bdeboeck							
+402	CIP112178.11					6	Peru-CIP		bdeboeck							
+403	CIP112178.12					6	Peru-CIP		bdeboeck							
+404	CIP112178.13					6	Peru-CIP		bdeboeck							
+405	CIP112178.2					6	Peru-CIP		bdeboeck							
+406	CIP112178.3					6	Peru-CIP		bdeboeck							
+407	CIP112178.4					6	Peru-CIP		bdeboeck							
+408	CIP112178.5					6	Peru-CIP		bdeboeck							
+409	CIP112178.7					6	Peru-CIP		bdeboeck							
+410	CIP112179.1					6	Peru-CIP		bdeboeck							
+411	CIP112179.2					6	Peru-CIP		bdeboeck							
+412	CIP112179.4					6	Peru-CIP		bdeboeck							
+413	CIP112179.6					6	Peru-CIP		bdeboeck							
+414	CIP112179.8					6	Peru-CIP		bdeboeck							
+415	CIP112179.9					6	Peru-CIP		bdeboeck							
+416	CIP112184.1					6	Peru-CIP		bdeboeck							
+417	CIP112184.10					6	Peru-CIP		bdeboeck							
+418	CIP112184.12					6	Peru-CIP		bdeboeck							
+419	CIP112184.14					6	Peru-CIP		bdeboeck							
+420	CIP112184.16					6	Peru-CIP		bdeboeck							
+421	CIP112184.4					6	Peru-CIP		bdeboeck							
+422	CIP112184.5					6	Peru-CIP		bdeboeck							
+423	CIP112184.6					6	Peru-CIP		bdeboeck							
+424	CIP112184.8					6	Peru-CIP		bdeboeck							
+425	CIP112185.1					6	Peru-CIP		bdeboeck							
+426	CIP112185.10					6	Peru-CIP		bdeboeck							
+427	CIP112185.11					6	Peru-CIP		bdeboeck							
+428	CIP112185.12					6	Peru-CIP		bdeboeck							
+429	CIP112185.13					6	Peru-CIP		bdeboeck							
+430	CIP112185.15					6	Peru-CIP		bdeboeck							
+431	CIP112185.16					6	Peru-CIP		bdeboeck							
+432	CIP112185.17					6	Peru-CIP		bdeboeck							
+433	CIP112185.2					6	Peru-CIP		bdeboeck							
+434	CIP112185.3					6	Peru-CIP		bdeboeck							
+435	CIP112185.4					6	Peru-CIP		bdeboeck							
+436	CIP112185.8					6	Peru-CIP		bdeboeck							
+437	CIP112186.1					6	Peru-CIP		bdeboeck							
+438	CIP112186.10					6	Peru-CIP		bdeboeck							
+439	CIP112186.11					6	Peru-CIP		bdeboeck							
+440	CIP112186.12					6	Peru-CIP		bdeboeck							
+441	CIP112186.15					6	Peru-CIP		bdeboeck							
+442	CIP112186.18					6	Peru-CIP		bdeboeck							
+443	CIP112186.2					6	Peru-CIP		bdeboeck							
+444	CIP112186.3					6	Peru-CIP		bdeboeck							
+445	CIP112186.4					6	Peru-CIP		bdeboeck							
+446	CIP112186.5					6	Peru-CIP		bdeboeck							
+447	CIP112186.6					6	Peru-CIP		bdeboeck							
+448	CIP112186.9					6	Peru-CIP		bdeboeck							
+449	CIP112208.1					6	Peru-CIP		bdeboeck							
+450	CIP112208.10					6	Peru-CIP		bdeboeck							
+451	CIP112208.11					6	Peru-CIP		bdeboeck							
+452	CIP112208.12					6	Peru-CIP		bdeboeck							
+453	CIP112208.14					6	Peru-CIP		bdeboeck							
+454	CIP112208.15					6	Peru-CIP		bdeboeck							
+455	CIP112208.2					6	Peru-CIP		bdeboeck							
+456	CIP112208.3					6	Peru-CIP		bdeboeck							
+457	CIP112208.4					6	Peru-CIP		bdeboeck							
+458	CIP112208.7					6	Peru-CIP		bdeboeck							
+459	CIP112208.8					6	Peru-CIP		bdeboeck							
+460	CIP112208.9					6	Peru-CIP		bdeboeck							
+461	CIP112209.1					6	Peru-CIP		bdeboeck							
+462	CIP112209.2					6	Peru-CIP		bdeboeck							
+463	CIP112209.3					6	Peru-CIP		bdeboeck							
+464	CIP112209.5					6	Peru-CIP		bdeboeck							
+465	CIP112209.7					6	Peru-CIP		bdeboeck							
+466	CIP112210.1					6	Peru-CIP		bdeboeck							
+467	CIP112210.10					6	Peru-CIP		bdeboeck							
+468	CIP112210.11					6	Peru-CIP		bdeboeck							
+469	CIP112210.12					6	Peru-CIP		bdeboeck							
+470	CIP112210.13					6	Peru-CIP		bdeboeck							
+471	CIP112210.18					6	Peru-CIP		bdeboeck							
+472	CIP112210.2					6	Peru-CIP		bdeboeck							
+473	CIP112210.3					6	Peru-CIP		bdeboeck							
+474	CIP112210.4					6	Peru-CIP		bdeboeck							
+475	CIP112210.5					6	Peru-CIP		bdeboeck							
+476	CIP112210.7					6	Peru-CIP		bdeboeck							
+477	CIP112210.8					6	Peru-CIP		bdeboeck							
+478	CIP112210.9					6	Peru-CIP		bdeboeck							
+479	CIP112211.1					6	Peru-CIP		bdeboeck							
+480	CIP112211.2					6	Peru-CIP		bdeboeck							
+481	CIP112212.10					6	Peru-CIP		bdeboeck							
+482	CIP112212.3					6	Peru-CIP		bdeboeck							
+483	CIP112212.4					6	Peru-CIP		bdeboeck							
+484	CIP112212.5					6	Peru-CIP		bdeboeck							
+485	CIP112212.6					6	Peru-CIP		bdeboeck							
+486	CIP112212.7					6	Peru-CIP		bdeboeck							
+487	CIP112212.8					6	Peru-CIP		bdeboeck							
+488	CIP112212.9					6	Peru-CIP		bdeboeck							
+489	CIP112213.1					6	Peru-CIP		bdeboeck							
+490	CIP112213.2					6	Peru-CIP		bdeboeck							
+491	CIP112213.3					6	Peru-CIP		bdeboeck							
+492	CIP112214.2					6	Peru-CIP		bdeboeck							
+493	CIP112215.1					6	Peru-CIP		bdeboeck							
+494	CIP112215.10					6	Peru-CIP		bdeboeck							
+495	CIP112215.12					6	Peru-CIP		bdeboeck							
+496	CIP112215.13					6	Peru-CIP		bdeboeck							
+497	CIP112215.15					6	Peru-CIP		bdeboeck							
+498	CIP112215.16					6	Peru-CIP		bdeboeck							
+499	CIP112215.2					6	Peru-CIP		bdeboeck							
+500	CIP112215.3					6	Peru-CIP		bdeboeck							
+501	CIP112215.6					6	Peru-CIP		bdeboeck							
+502	CIP112215.7					6	Peru-CIP		bdeboeck							
+503	CIP112215.8					6	Peru-CIP		bdeboeck							
+504	CIP112215.9					6	Peru-CIP		bdeboeck							
+505	CIP112216.1					6	Peru-CIP		bdeboeck							
+506	CIP112216.10					6	Peru-CIP		bdeboeck							
+507	CIP112216.11					6	Peru-CIP		bdeboeck							
+508	CIP112216.2					6	Peru-CIP		bdeboeck							
+509	CIP112216.4					6	Peru-CIP		bdeboeck							
+510	CIP112216.6					6	Peru-CIP		bdeboeck							
+511	CIP112216.9					6	Peru-CIP		bdeboeck							
+512	CIP112217.1					6	Peru-CIP		bdeboeck							
+513	CIP112217.10					6	Peru-CIP		bdeboeck							
+514	CIP112217.12					6	Peru-CIP		bdeboeck							
+515	CIP112217.13					6	Peru-CIP		bdeboeck							
+516	CIP112217.15					6	Peru-CIP		bdeboeck							
+517	CIP112217.16					6	Peru-CIP		bdeboeck							
+518	CIP112217.17					6	Peru-CIP		bdeboeck							
+519	CIP112217.2					6	Peru-CIP		bdeboeck							
+520	CIP112217.3					6	Peru-CIP		bdeboeck							
+521	CIP112217.5					6	Peru-CIP		bdeboeck							
+522	CIP112217.6					6	Peru-CIP		bdeboeck							
+523	CIP112217.7					6	Peru-CIP		bdeboeck							
+524	CIP112217.9					6	Peru-CIP		bdeboeck							
+525	CIP112218.1					6	Peru-CIP		bdeboeck							
+526	CIP112218.10					6	Peru-CIP		bdeboeck							
+527	CIP112218.11					6	Peru-CIP		bdeboeck							
+528	CIP112218.14					6	Peru-CIP		bdeboeck							
+529	CIP112218.2					6	Peru-CIP		bdeboeck							
+530	CIP112218.3					6	Peru-CIP		bdeboeck							
+531	CIP112218.4					6	Peru-CIP		bdeboeck							
+532	CIP112218.5					6	Peru-CIP		bdeboeck							
+533	CIP112218.6					6	Peru-CIP		bdeboeck							
+534	CIP112218.7					6	Peru-CIP		bdeboeck							
+535	CIP112218.8					6	Peru-CIP		bdeboeck							
+536	CIP112218.9					6	Peru-CIP		bdeboeck							
+537	CIP112219.1					6	Peru-CIP		bdeboeck							
+538	CIP112219.10					6	Peru-CIP		bdeboeck							
+539	CIP112219.12					6	Peru-CIP		bdeboeck							
+540	CIP112219.2					6	Peru-CIP		bdeboeck							
+541	CIP112219.3					6	Peru-CIP		bdeboeck							
+542	CIP112219.4					6	Peru-CIP		bdeboeck							
+543	CIP112219.5					6	Peru-CIP		bdeboeck							
+544	CIP112219.6					6	Peru-CIP		bdeboeck							
+545	CIP112219.7					6	Peru-CIP		bdeboeck							
+546	CIP112219.8					6	Peru-CIP		bdeboeck							
+547	CIP112220.1					6	Peru-CIP		bdeboeck							
+548	CIP112220.10					6	Peru-CIP		bdeboeck							
+549	CIP112220.12					6	Peru-CIP		bdeboeck							
+550	CIP112220.15					6	Peru-CIP		bdeboeck							
+551	CIP112220.4					6	Peru-CIP		bdeboeck							
+552	CIP112220.5					6	Peru-CIP		bdeboeck							
+553	CIP112220.7					6	Peru-CIP		bdeboeck							
+554	CIP112220.8					6	Peru-CIP		bdeboeck							
+555	CIP112222.1					6	Peru-CIP		bdeboeck							
+556	CIP112223.11					6	Peru-CIP		bdeboeck							
+557	CIP112223.12					6	Peru-CIP		bdeboeck							
+558	CIP112223.13					6	Peru-CIP		bdeboeck							
+559	CIP112223.15					6	Peru-CIP		bdeboeck							
+560	CIP112223.2					6	Peru-CIP		bdeboeck							
+561	CIP112223.4					6	Peru-CIP		bdeboeck							
+562	CIP112223.5					6	Peru-CIP		bdeboeck							
+563	CIP112223.6					6	Peru-CIP		bdeboeck							
+564	CIP112223.8					6	Peru-CIP		bdeboeck							
+565	CIP112223.9					6	Peru-CIP		bdeboeck							
+566	CIP112224.14					6	Peru-CIP		bdeboeck							
+567	CIP112224.15					6	Peru-CIP		bdeboeck							
+568	CIP112224.3					6	Peru-CIP		bdeboeck							
+569	CIP112224.4					6	Peru-CIP		bdeboeck							
+570	CIP112224.6					6	Peru-CIP		bdeboeck							
+571	CIP112224.8					6	Peru-CIP		bdeboeck							
+572	CIP112224.9					6	Peru-CIP		bdeboeck							
+573	CIP112225.1					6	Peru-CIP		bdeboeck							
+574	CIP112226.2					6	Peru-CIP		bdeboeck							
+575	CIP112240.1					6	Peru-CIP		bdeboeck							
+576	CIP112240.10					6	Peru-CIP		bdeboeck							
+577	CIP112240.11					6	Peru-CIP		bdeboeck							
+578	CIP112240.13					6	Peru-CIP		bdeboeck							
+579	CIP112240.14					6	Peru-CIP		bdeboeck							
+580	CIP112240.16					6	Peru-CIP		bdeboeck							
+581	CIP112240.2					6	Peru-CIP		bdeboeck							
+582	CIP112240.5					6	Peru-CIP		bdeboeck							
+583	CIP112240.7					6	Peru-CIP		bdeboeck							
+584	CIP112240.8					6	Peru-CIP		bdeboeck							
+585	CIP112240.9					6	Peru-CIP		bdeboeck							
+586	CIP112241.1					6	Peru-CIP		bdeboeck							
+587	CIP112242.1					6	Peru-CIP		bdeboeck							
+588	CIP112242.3					6	Peru-CIP		bdeboeck							
+589	CIP112243.1					6	Peru-CIP		bdeboeck							
+590	CIP112243.3					6	Peru-CIP		bdeboeck							
+591	CIP112243.6					6	Peru-CIP		bdeboeck							
+592	CIP112244.10					6	Peru-CIP		bdeboeck							
+593	CIP112244.11					6	Peru-CIP		bdeboeck							
+594	CIP112244.12					6	Peru-CIP		bdeboeck							
+595	CIP112244.13					6	Peru-CIP		bdeboeck							
+596	CIP112244.14					6	Peru-CIP		bdeboeck							
+597	CIP112244.15					6	Peru-CIP		bdeboeck							
+598	CIP112244.16					6	Peru-CIP		bdeboeck							
+599	CIP112244.18					6	Peru-CIP		bdeboeck							
+600	CIP112244.2					6	Peru-CIP		bdeboeck							
+601	CIP112244.3					6	Peru-CIP		bdeboeck							
+602	CIP112244.5					6	Peru-CIP		bdeboeck							
+603	CIP112244.6					6	Peru-CIP		bdeboeck							
+604	CIP112244.7					6	Peru-CIP		bdeboeck							
+605	CIP112244.8					6	Peru-CIP		bdeboeck							
+606	CIP112245.1					6	Peru-CIP		bdeboeck							
+607	CIP112245.2					6	Peru-CIP		bdeboeck							
+608	CIP112245.3					6	Peru-CIP		bdeboeck							
+609	CIP112245.4					6	Peru-CIP		bdeboeck							
+610	CIP112246.1					6	Peru-CIP		bdeboeck							
+611	CIP112246.10					6	Peru-CIP		bdeboeck							
+612	CIP112246.4					6	Peru-CIP		bdeboeck							
+613	CIP112246.8					6	Peru-CIP		bdeboeck							
+614	CIP112247.2					6	Peru-CIP		bdeboeck							
+615	CIP112247.3					6	Peru-CIP		bdeboeck							
+616	CIP112247.4					6	Peru-CIP		bdeboeck							
+617	CIP112247.6					6	Peru-CIP		bdeboeck							
+618	CIP112247.8					6	Peru-CIP		bdeboeck							
+619	CIP112247.9					6	Peru-CIP		bdeboeck							
+620	CIP112248.11					6	Peru-CIP		bdeboeck							
+621	CIP112248.16					6	Peru-CIP		bdeboeck							
+622	CIP112248.4					6	Peru-CIP		bdeboeck							
+623	CIP112248.5					6	Peru-CIP		bdeboeck							
+624	CIP112248.7					6	Peru-CIP		bdeboeck							
+625	CIP112249.1					6	Peru-CIP		bdeboeck							
+626	CIP112249.3					6	Peru-CIP		bdeboeck							
+627	CIP112250.1					6	Peru-CIP		bdeboeck							
+628	CIP112250.2					6	Peru-CIP		bdeboeck							
+629	CIP112250.3					6	Peru-CIP		bdeboeck							
+630	CIP112250.4					6	Peru-CIP		bdeboeck							
+631	CIP112250.5					6	Peru-CIP		bdeboeck							
+632	CIP112259.1					6	Peru-CIP		bdeboeck							
+633	CIP112259.2					6	Peru-CIP		bdeboeck							
+634	CIP112259.3					6	Peru-CIP		bdeboeck							
+635	CIP112259.4					6	Peru-CIP		bdeboeck							
+636	CIP112259.5					6	Peru-CIP		bdeboeck							
+637	CIP112259.8					6	Peru-CIP		bdeboeck							
+638	CIP112260.1					6	Peru-CIP		bdeboeck							
+639	CIP112260.2					6	Peru-CIP		bdeboeck							
+640	CIP112260.3					6	Peru-CIP		bdeboeck							
+641	CIP112260.5					6	Peru-CIP		bdeboeck							
+642	CIP112260.6					6	Peru-CIP		bdeboeck							
+643	CIP112261.10					6	Peru-CIP		bdeboeck							
+644	CIP112261.11					6	Peru-CIP		bdeboeck							
+645	CIP112261.12					6	Peru-CIP		bdeboeck							
+646	CIP112261.13					6	Peru-CIP		bdeboeck							
+647	CIP112261.14					6	Peru-CIP		bdeboeck							
+648	CIP112261.15					6	Peru-CIP		bdeboeck							
+649	CIP112261.2					6	Peru-CIP		bdeboeck							
+650	CIP112261.4					6	Peru-CIP		bdeboeck							
+651	CIP112261.6					6	Peru-CIP		bdeboeck							
+652	CIP112261.7					6	Peru-CIP		bdeboeck							
+653	CIP112261.9					6	Peru-CIP		bdeboeck							
+654	CIP112262.1					6	Peru-CIP		bdeboeck							
+655	CIP112263.1					6	Peru-CIP		bdeboeck							
+656	CIP112263.10					6	Peru-CIP		bdeboeck							
+657	CIP112263.11					6	Peru-CIP		bdeboeck							
+658	CIP112263.12					6	Peru-CIP		bdeboeck							
+659	CIP112263.13					6	Peru-CIP		bdeboeck							
+660	CIP112263.14					6	Peru-CIP		bdeboeck							
+661	CIP112263.2					6	Peru-CIP		bdeboeck							
+662	CIP112263.3					6	Peru-CIP		bdeboeck							
+663	CIP112263.4					6	Peru-CIP		bdeboeck							
+664	CIP112263.5					6	Peru-CIP		bdeboeck							
+665	CIP112263.7					6	Peru-CIP		bdeboeck							
+666	CIP112263.9					6	Peru-CIP		bdeboeck							
+667	CIP112264.1					6	Peru-CIP		bdeboeck							
+668	CIP112264.2					6	Peru-CIP		bdeboeck							
+669	CIP112264.3					6	Peru-CIP		bdeboeck							
+670	CIP112264.4					6	Peru-CIP		bdeboeck							
+671	CIP112264.5					6	Peru-CIP		bdeboeck							
+672	CIP112264.7					6	Peru-CIP		bdeboeck							
+673	CIP112264.8					6	Peru-CIP		bdeboeck							
+674	CIP112264.9					6	Peru-CIP		bdeboeck							
+675	CIP112265.1					6	Peru-CIP		bdeboeck							
+676	CIP112265.10					6	Peru-CIP		bdeboeck							
+677	CIP112265.11					6	Peru-CIP		bdeboeck							
+678	CIP112265.12					6	Peru-CIP		bdeboeck							
+679	CIP112265.13					6	Peru-CIP		bdeboeck							
+680	CIP112265.14					6	Peru-CIP		bdeboeck							
+681	CIP112265.2					6	Peru-CIP		bdeboeck							
+682	CIP112265.3					6	Peru-CIP		bdeboeck							
+683	CIP112265.4					6	Peru-CIP		bdeboeck							
+684	CIP112265.5					6	Peru-CIP		bdeboeck							
+685	CIP112265.6					6	Peru-CIP		bdeboeck							
+686	CIP112265.7					6	Peru-CIP		bdeboeck							
+687	CIP112265.8					6	Peru-CIP		bdeboeck							
+688	CIP112278.1					6	Peru-CIP		bdeboeck							
+689	CIP112278.2					6	Peru-CIP		bdeboeck							
+690	CIP112278.3					6	Peru-CIP		bdeboeck							
+691	CIP112279.1					6	Peru-CIP		bdeboeck							
+692	CIP113641.1	BT13.001				6	Uganda-CIP		bdeboeck							
+693	CIP113641.101	BT13.101				6	Uganda-CIP		bdeboeck							
+694	CIP113641.104	BT13.104				6	Uganda-CIP		bdeboeck							
+695	CIP113641.108	BT13.108				6	Uganda-CIP		bdeboeck							
+696	CIP113641.112	BT13.112				6	Uganda-CIP		bdeboeck							
+697	CIP113641.113	BT13.113				6	Uganda-CIP		bdeboeck							
+698	CIP113641.12	BT13.012				6	Uganda-CIP		bdeboeck							
+699	CIP113641.123	BT13.123				6	Uganda-CIP		bdeboeck							
+700	CIP113641.127	BT13.127				6	Uganda-CIP		bdeboeck							
+701	CIP113641.13	BT13.013				6	Uganda-CIP		bdeboeck							
+702	CIP113641.130	BT13.130				6	Uganda-CIP		bdeboeck							
+703	CIP113641.134	BT13.134				6	Uganda-CIP		bdeboeck							
+704	CIP113641.135	BT13.135				6	Uganda-CIP		bdeboeck							
+705	CIP113641.137	BT13.137				6	Uganda-CIP		bdeboeck							
+706	CIP113641.14	BT13.014				6	Uganda-CIP		bdeboeck							
+707	CIP113641.140	BT13.140				6	Uganda-CIP		bdeboeck							
+708	CIP113641.143	BT13.143				6	Uganda-CIP		bdeboeck							
+709	CIP113641.145	BT13.145				6	Uganda-CIP		bdeboeck							
+710	CIP113641.15	BT13.015				6	Uganda-CIP		bdeboeck							
+711	CIP113641.151	BT13.151				6	Uganda-CIP		bdeboeck							
+712	CIP113641.152	BT13.152				6	Uganda-CIP		bdeboeck							
+713	CIP113641.153	BT13.153				6	Uganda-CIP		bdeboeck							
+714	CIP113641.156	BT13.156				6	Uganda-CIP		bdeboeck							
+715	CIP113641.160	BT13.160				6	Uganda-CIP		bdeboeck							
+716	CIP113641.163	BT13.163				6	Uganda-CIP		bdeboeck							
+717	CIP113641.165	BT13.165				6	Uganda-CIP		bdeboeck							
+718	CIP113641.169	BT13.169				6	Uganda-CIP		bdeboeck							
+719	CIP113641.172	BT13.172				6	Uganda-CIP		bdeboeck							
+720	CIP113641.174	BT13.174				6	Uganda-CIP		bdeboeck							
+721	CIP113641.18	BT13.018				6	Uganda-CIP		bdeboeck							
+722	CIP113641.180	BT13.180				6	Uganda-CIP		bdeboeck							
+723	CIP113641.181	BT13.181				6	Uganda-CIP		bdeboeck							
+724	CIP113641.182	BT13.182				6	Uganda-CIP		bdeboeck							
+725	CIP113641.183	BT13.183				6	Uganda-CIP		bdeboeck							
+726	CIP113641.184	BT13.184				6	Uganda-CIP		bdeboeck							
+727	CIP113641.185	BT13.185				6	Uganda-CIP		bdeboeck							
+728	CIP113641.186	BT13.186				6	Uganda-CIP		bdeboeck							
+729	CIP113641.188	BT13.188				6	Uganda-CIP		bdeboeck							
+730	CIP113641.19	BT13.019				6	Uganda-CIP		bdeboeck							
+731	CIP113641.196	BT13.196				6	Uganda-CIP		bdeboeck							
+732	CIP113641.197	BT13.197				6	Uganda-CIP		bdeboeck							
+733	CIP113641.198	BT13.198				6	Uganda-CIP		bdeboeck							
+734	CIP113641.2	BT13.002				6	Uganda-CIP		bdeboeck							
+735	CIP113641.20	BT13.020				6	Uganda-CIP		bdeboeck							
+736	CIP113641.200	BT13.200				6	Uganda-CIP		bdeboeck							
+737	CIP113641.202	BT13.202				6	Uganda-CIP		bdeboeck							
+738	CIP113641.205	BT13.205				6	Uganda-CIP		bdeboeck							
+739	CIP113641.206	BT13.206				6	Uganda-CIP		bdeboeck							
+740	CIP113641.21	BT13.021				6	Uganda-CIP		bdeboeck							
+741	CIP113641.211	BT13.211				6	Uganda-CIP		bdeboeck							
+742	CIP113641.225	BT13.225				6	Uganda-CIP		bdeboeck							
+743	CIP113641.226	BT13.226				6	Uganda-CIP		bdeboeck							
+744	CIP113641.227	BT13.227				6	Uganda-CIP		bdeboeck							
+745	CIP113641.228	BT13.228				6	Uganda-CIP		bdeboeck							
+746	CIP113641.230	BT13.230				6	Uganda-CIP		bdeboeck							
+747	CIP113641.231	BT13.231				6	Uganda-CIP		bdeboeck							
+748	CIP113641.232	BT13.232				6	Uganda-CIP		bdeboeck							
+749	CIP113641.233	BT13.233				6	Uganda-CIP		bdeboeck							
+750	CIP113641.234	BT13.234				6	Uganda-CIP		bdeboeck							
+751	CIP113641.235	BT13.235				6	Uganda-CIP		bdeboeck							
+752	CIP113641.237	BT13.237				6	Uganda-CIP		bdeboeck							
+753	CIP113641.239	BT13.239				6	Uganda-CIP		bdeboeck							
+754	CIP113641.242	BT13.242				6	Uganda-CIP		bdeboeck							
+755	CIP113641.244	BT13.244				6	Uganda-CIP		bdeboeck							
+756	CIP113641.245	BT13.245				6	Uganda-CIP		bdeboeck							
+757	CIP113641.247	BT13.247				6	Uganda-CIP		bdeboeck							
+758	CIP113641.250	BT13.250				6	Uganda-CIP		bdeboeck							
+759	CIP113641.251	BT13.251				6	Uganda-CIP		bdeboeck							
+760	CIP113641.252	BT13.252				6	Uganda-CIP		bdeboeck							
+761	CIP113641.255	BT13.255				6	Uganda-CIP		bdeboeck							
+762	CIP113641.259	BT13.259				6	Uganda-CIP		bdeboeck							
+763	CIP113641.261	BT13.261				6	Uganda-CIP		bdeboeck							
+764	CIP113641.262	BT13.262				6	Uganda-CIP		bdeboeck							
+765	CIP113641.263	BT13.263				6	Uganda-CIP		bdeboeck							
+766	CIP113641.264	BT13.264				6	Uganda-CIP		bdeboeck							
+767	CIP113641.266	BT13.266				6	Uganda-CIP		bdeboeck							
+768	CIP113641.267	BT13.267				6	Uganda-CIP		bdeboeck							
+769	CIP113641.27	BT13.027				6	Uganda-CIP		bdeboeck							
+770	CIP113641.277	BT13.277				6	Uganda-CIP		bdeboeck							
+771	CIP113641.278	BT13.278				6	Uganda-CIP		bdeboeck							
+772	CIP113641.279	BT13.279				6	Uganda-CIP		bdeboeck							
+773	CIP113641.28	BT13.028				6	Uganda-CIP		bdeboeck							
+774	CIP113641.280	BT13.280				6	Uganda-CIP		bdeboeck							
+775	CIP113641.282	BT13.282				6	Uganda-CIP		bdeboeck							
+776	CIP113641.283	BT13.283				6	Uganda-CIP		bdeboeck							
+777	CIP113641.284	BT13.284				6	Uganda-CIP		bdeboeck							
+778	CIP113641.286	BT13.286				6	Uganda-CIP		bdeboeck							
+779	CIP113641.289	BT13.289				6	Uganda-CIP		bdeboeck							
+780	CIP113641.290	BT13.290				6	Uganda-CIP		bdeboeck							
+781	CIP113641.291	BT13.291				6	Uganda-CIP		bdeboeck							
+782	CIP113641.292	BT13.292				6	Uganda-CIP		bdeboeck							
+783	CIP113641.293	BT13.293				6	Uganda-CIP		bdeboeck							
+784	CIP113641.294	BT13.294				6	Uganda-CIP		bdeboeck							
+785	CIP113641.296	BT13.296				6	Uganda-CIP		bdeboeck							
+786	CIP113641.297	BT13.297				6	Uganda-CIP		bdeboeck							
+787	CIP113641.298	BT13.298				6	Uganda-CIP		bdeboeck							
+788	CIP113641.299	BT13.299				6	Uganda-CIP		bdeboeck							
+789	CIP113641.3	BT13.003				6	Uganda-CIP		bdeboeck							
+790	CIP113641.30	BT13.030				6	Uganda-CIP		bdeboeck							
+791	CIP113641.301	BT13.301				6	Uganda-CIP		bdeboeck							
+792	CIP113641.303	BT13.303				6	Uganda-CIP		bdeboeck							
+793	CIP113641.306	BT13.306				6	Uganda-CIP		bdeboeck							
+794	CIP113641.307	BT13.307				6	Uganda-CIP		bdeboeck							
+795	CIP113641.308	BT13.308				6	Uganda-CIP		bdeboeck							
+796	CIP113641.309	BT13.309				6	Uganda-CIP		bdeboeck							
+797	CIP113641.31	BT13.031				6	Uganda-CIP		bdeboeck							
+798	CIP113641.312	BT13.312				6	Uganda-CIP		bdeboeck							
+799	CIP113641.313	BT13.313				6	Uganda-CIP		bdeboeck							
+800	CIP113641.315	BT13.315				6	Uganda-CIP		bdeboeck							
+801	CIP113641.316	BT13.316				6	Uganda-CIP		bdeboeck							
+802	CIP113641.318	BT13.318				6	Uganda-CIP		bdeboeck							
+803	CIP113641.319	BT13.319				6	Uganda-CIP		bdeboeck							
+804	CIP113641.321	BT13.321				6	Uganda-CIP		bdeboeck							
+805	CIP113641.322	BT13.322				6	Uganda-CIP		bdeboeck							
+806	CIP113641.324	BT13.324				6	Uganda-CIP		bdeboeck							
+807	CIP113641.328	BT13.328				6	Uganda-CIP		bdeboeck							
+808	CIP113641.329	BT13.329				6	Uganda-CIP		bdeboeck							
+809	CIP113641.33	BT13.033				6	Uganda-CIP		bdeboeck							
+810	CIP113641.333	BT13.333				6	Uganda-CIP		bdeboeck							
+811	CIP113641.337	BT13.337				6	Uganda-CIP		bdeboeck							
+812	CIP113641.339	BT13.339				6	Uganda-CIP		bdeboeck							
+813	CIP113641.342	BT13.342				6	Uganda-CIP		bdeboeck							
+814	CIP113641.344	BT13.344				6	Uganda-CIP		bdeboeck							
+815	CIP113641.349	BT13.349				6	Uganda-CIP		bdeboeck							
+816	CIP113641.35	BT13.035				6	Uganda-CIP		bdeboeck							
+817	CIP113641.351	BT13.351				6	Uganda-CIP		bdeboeck							
+818	CIP113641.353	BT13.353				6	Uganda-CIP		bdeboeck							
+819	CIP113641.355	BT13.355				6	Uganda-CIP		bdeboeck							
+820	CIP113641.356	BT13.356				6	Uganda-CIP		bdeboeck							
+821	CIP113641.358	BT13.358				6	Uganda-CIP		bdeboeck							
+822	CIP113641.359	BT13.359				6	Uganda-CIP		bdeboeck							
+823	CIP113641.360	BT13.360				6	Uganda-CIP		bdeboeck							
+824	CIP113641.361	BT13.361				6	Uganda-CIP		bdeboeck							
+825	CIP113641.365	BT13.365				6	Uganda-CIP		bdeboeck							
+826	CIP113641.366	BT13.366				6	Uganda-CIP		bdeboeck							
+827	CIP113641.367	BT13.367				6	Uganda-CIP		bdeboeck							
+828	CIP113641.369	BT13.369				6	Uganda-CIP		bdeboeck							
+829	CIP113641.37	BT13.037				6	Uganda-CIP		bdeboeck							
+830	CIP113641.370	BT13.370				6	Uganda-CIP		bdeboeck							
+831	CIP113641.371	BT13.371				6	Uganda-CIP		bdeboeck							
+832	CIP113641.374	BT13.374				6	Uganda-CIP		bdeboeck							
+833	CIP113641.375	BT13.375				6	Uganda-CIP		bdeboeck							
+834	CIP113641.376	BT13.376				6	Uganda-CIP		bdeboeck							
+835	CIP113641.379	BT13.379				6	Uganda-CIP		bdeboeck							
+836	CIP113641.38	BT13.038				6	Uganda-CIP		bdeboeck							
+837	CIP113641.380	BT13.380				6	Uganda-CIP		bdeboeck							
+838	CIP113641.382	BT13.382				6	Uganda-CIP		bdeboeck							
+839	CIP113641.383	BT13.383				6	Uganda-CIP		bdeboeck							
+840	CIP113641.384	BT13.384				6	Uganda-CIP		bdeboeck							
+841	CIP113641.385	BT13.385				6	Uganda-CIP		bdeboeck							
+842	CIP113641.387	BT13.387				6	Uganda-CIP		bdeboeck							
+843	CIP113641.389	BT13.389				6	Uganda-CIP		bdeboeck							
+844	CIP113641.39	BT13.039				6	Uganda-CIP		bdeboeck							
+845	CIP113641.390	BT13.390				6	Uganda-CIP		bdeboeck							
+846	CIP113641.391	BT13.391				6	Uganda-CIP		bdeboeck							
+847	CIP113641.392	BT13.392				6	Uganda-CIP		bdeboeck							
+848	CIP113641.393	BT13.393				6	Uganda-CIP		bdeboeck							
+849	CIP113641.396	BT13.396				6	Uganda-CIP		bdeboeck							
+850	CIP113641.397	BT13.397				6	Uganda-CIP		bdeboeck							
+851	CIP113641.400	BT13.400				6	Uganda-CIP		bdeboeck							
+852	CIP113641.401	BT13.401				6	Uganda-CIP		bdeboeck							
+853	CIP113641.403	BT13.403				6	Uganda-CIP		bdeboeck							
+854	CIP113641.406	BT13.406				6	Uganda-CIP		bdeboeck							
+855	CIP113641.407	BT13.407				6	Uganda-CIP		bdeboeck							
+856	CIP113641.408	BT13.408				6	Uganda-CIP		bdeboeck							
+857	CIP113641.410	BT13.410				6	Uganda-CIP		bdeboeck							
+858	CIP113641.411	BT13.411				6	Uganda-CIP		bdeboeck							
+859	CIP113641.413	BT13.413				6	Uganda-CIP		bdeboeck							
+860	CIP113641.414	BT13.414				6	Uganda-CIP		bdeboeck							
+861	CIP113641.42	BT13.042				6	Uganda-CIP		bdeboeck							
+862	CIP113641.426	BT13.426				6	Uganda-CIP		bdeboeck							
+863	CIP113641.427	BT13.427				6	Uganda-CIP		bdeboeck							
+864	CIP113641.429	BT13.429				6	Uganda-CIP		bdeboeck							
+865	CIP113641.430	BT13.430				6	Uganda-CIP		bdeboeck							
+866	CIP113641.431	BT13.431				6	Uganda-CIP		bdeboeck							
+867	CIP113641.432	BT13.432				6	Uganda-CIP		bdeboeck							
+868	CIP113641.434	BT13.434				6	Uganda-CIP		bdeboeck							
+869	CIP113641.441	BT13.441				6	Uganda-CIP		bdeboeck							
+870	CIP113641.443	BT13.443				6	Uganda-CIP		bdeboeck							
+871	CIP113641.45	BT13.045				6	Uganda-CIP		bdeboeck							
+872	CIP113641.47	BT13.047				6	Uganda-CIP		bdeboeck							
+873	CIP113641.48	BT13.048				6	Uganda-CIP		bdeboeck							
+874	CIP113641.49	BT13.049				6	Uganda-CIP		bdeboeck							
+875	CIP113641.51	BT13.051				6	Uganda-CIP		bdeboeck							
+876	CIP113641.57	BT13.057				6	Uganda-CIP		bdeboeck							
+877	CIP113641.58	BT13.058				6	Uganda-CIP		bdeboeck							
+878	CIP113641.59	BT13.059				6	Uganda-CIP		bdeboeck							
+879	CIP113641.61	BT13.061				6	Uganda-CIP		bdeboeck							
+880	CIP113641.62	BT13.062				6	Uganda-CIP		bdeboeck							
+881	CIP113641.63	BT13.063				6	Uganda-CIP		bdeboeck							
+882	CIP113641.65	BT13.065				6	Uganda-CIP		bdeboeck							
+883	CIP113641.68	BT13.068				6	Uganda-CIP		bdeboeck							
+884	CIP113641.69	BT13.069				6	Uganda-CIP		bdeboeck							
+885	CIP113641.7	BT13.007				6	Uganda-CIP		bdeboeck							
+886	CIP113641.70	BT13.070				6	Uganda-CIP		bdeboeck							
+887	CIP113641.76	BT13.076				6	Uganda-CIP		bdeboeck							
+888	CIP113641.78	BT13.078				6	Uganda-CIP		bdeboeck							
+889	CIP113641.80	BT13.080				6	Uganda-CIP		bdeboeck							
+890	CIP113641.83	BT13.083				6	Uganda-CIP		bdeboeck							
+891	CIP113641.86	BT13.086				6	Uganda-CIP		bdeboeck							
+892	CIP113641.9	BT13.009				6	Uganda-CIP		bdeboeck							
+893	CIP113641.93	BT13.093				6	Uganda-CIP		bdeboeck							
+894	CIP113641.99	BT13.099				6	Uganda-CIP		bdeboeck							
+895	CIP199062.1	Dagga	 CRI-Bohye	 PU2014_B78	 CIP444201	6	Uganda-CIP		bdeboeck							
+896	CIP199062.1-1					6	Mozambique-CIP		bdeboeck							
+897	CIP199062.1-2					6	Ghana-CIP		bdeboeck							
+898	CIP199062.1-20					6	Mozambique-CIP		bdeboeck							
+899	CIP199062.2					6	Mozambique-CIP		bdeboeck							
+900	CIP440390					6	Ghana-CIP		bdeboeck							
+901	CIP442162	CRI-Mbofara	 TIS 82/0270-OP-1-105			6	Ghana-CIP		bdeboeck							
+902	CIP442267					6	Ghana-CIP		bdeboeck							
+903	CIP442462					6	Ghana-CIP		bdeboeck							
+904	Ck-1997A-04-28(07)-15					6	Mozambique-CIP		bdeboeck							
+905	Ck-1997A-04-28(07)-16					6	Mozambique-CIP		bdeboeck							
+906	Ck-1998-12-3(07)-2					6	Mozambique-CIP		bdeboeck							
+907	Ck-1998-21-1(07)-8					6	Mozambique-CIP		bdeboeck							
+908	Ck-Ejumula(07)-103					6	Mozambique-CIP		bdeboeck							
+909	Ck-Ejumula(07)-111					6	Mozambique-CIP		bdeboeck							
+910	Ck-Ejumula(07)-58					6	Mozambique-CIP		bdeboeck							
+911	Ck-Ejumula(07)-69					6	Mozambique-CIP		bdeboeck							
+912	Ck-Ejumula(07)-72					6	Mozambique-CIP		bdeboeck							
+913	Ck-Ejumula(07)-87					6	Mozambique-CIP		bdeboeck							
+914	Ck-Ejumula(07)-96					6	Mozambique-CIP		bdeboeck							
+915	Ck-Jewel(07)-11					6	Mozambique-CIP		bdeboeck							
+916	Ck-Jewel(07)-50					6	Mozambique-CIP		bdeboeck							
+917	Ck-Jewel(07)-67					6	Mozambique-CIP		bdeboeck							
+918	Ck-Mafutha(07)-10					6	Mozambique-CIP		bdeboeck							
+919	Ck-NC9350A-59(07)-1					6	Mozambique-CIP		bdeboeck							
+920	Ck-NC9350A-59(07)-10					6	Mozambique-CIP		bdeboeck							
+921	Ck-NC9350A-59(07)-13					6	Mozambique-CIP		bdeboeck							
+922	Ck-NC98076-13(07)-9					6	Mozambique-CIP		bdeboeck							
+923	Ck-W250A-23(07)-11					6	Mozambique-CIP		bdeboeck							
+924	Ck-W250A-23(07)-19					6	Mozambique-CIP		bdeboeck							
+925	Ck-W250A-23(07)-20					6	Mozambique-CIP		bdeboeck							
+926	Ck-W250A-23(07)-24					6	Mozambique-CIP		bdeboeck							
+927	Ck-W250A-23(07)-29					6	Mozambique-CIP		bdeboeck							
+928	Ck-W250A-23(07)-3					6	Mozambique-CIP		bdeboeck							
+929	Ck-W250A-23(07)-4					6	Mozambique-CIP		bdeboeck							
+930	Ck-W250A-23(07)-8					6	Mozambique-CIP		bdeboeck							
+931	Ck-W250A-26(07)-21					6	Mozambique-CIP		bdeboeck							
+932	Ck-W250A-31(07)-15					6	Mozambique-CIP		bdeboeck							
+933	CN1448-49					6	Mozambique-CIP		bdeboeck							
+934	CN1448-49-1					6	Mozambique-CIP		bdeboeck							
+935	CN1448-49-10					6	Mozambique-CIP		bdeboeck							
+936	CN1448-49-11					6	Mozambique-CIP		bdeboeck							
+937	CN1448-49-12					6	Mozambique-CIP		bdeboeck							
+938	CN1448-49-13					6	Mozambique-CIP		bdeboeck							
+939	CN1448-49-14					6	Mozambique-CIP		bdeboeck							
+940	CN1448-49-15					6	Mozambique-CIP		bdeboeck							
+941	CN1448-49-16					6	Mozambique-CIP		bdeboeck							
+942	CN1448-49-17					6	Mozambique-CIP		bdeboeck							
+943	CN1448-49-18					6	Mozambique-CIP		bdeboeck							
+944	CN1448-49-19					6	Mozambique-CIP		bdeboeck							
+945	CN1448-49-2					6	Mozambique-CIP		bdeboeck							
+946	CN1448-49-20					6	Mozambique-CIP		bdeboeck							
+947	CN1448-49-21					6	Mozambique-CIP		bdeboeck							
+948	CN1448-49-22					6	Mozambique-CIP		bdeboeck							
+949	CN1448-49-23					6	Mozambique-CIP		bdeboeck							
+950	CN1448-49-24					6	Mozambique-CIP		bdeboeck							
+951	CN1448-49-25					6	Mozambique-CIP		bdeboeck							
+952	CN1448-49-26					6	Mozambique-CIP		bdeboeck							
+953	CN1448-49-27					6	Mozambique-CIP		bdeboeck							
+954	CN1448-49-28					6	Mozambique-CIP		bdeboeck							
+955	CN1448-49-29					6	Mozambique-CIP		bdeboeck							
+956	CN1448-49-3					6	Mozambique-CIP		bdeboeck							
+957	CN1448-49-30					6	Mozambique-CIP		bdeboeck							
+958	CN1448-49-31					6	Mozambique-CIP		bdeboeck							
+959	CN1448-49-32					6	Mozambique-CIP		bdeboeck							
+960	CN1448-49-33					6	Mozambique-CIP		bdeboeck							
+961	CN1448-49-34					6	Mozambique-CIP		bdeboeck							
+962	CN1448-49-35					6	Mozambique-CIP		bdeboeck							
+963	CN1448-49-36					6	Mozambique-CIP		bdeboeck							
+964	CN1448-49-37					6	Mozambique-CIP		bdeboeck							
+965	CN1448-49-38					6	Mozambique-CIP		bdeboeck							
+966	CN1448-49-39					6	Mozambique-CIP		bdeboeck							
+967	CN1448-49-4					6	Mozambique-CIP		bdeboeck							
+968	CN1448-49-40					6	Mozambique-CIP		bdeboeck							
+969	CN1448-49-41					6	Mozambique-CIP		bdeboeck							
+970	CN1448-49-42					6	Mozambique-CIP		bdeboeck							
+971	CN1448-49-43					6	Mozambique-CIP		bdeboeck							
+972	CN1448-49-44					6	Mozambique-CIP		bdeboeck							
+973	CN1448-49-45					6	Mozambique-CIP		bdeboeck							
+974	CN1448-49-46					6	Mozambique-CIP		bdeboeck							
+975	CN1448-49-47					6	Mozambique-CIP		bdeboeck							
+976	CN1448-49-48					6	Mozambique-CIP		bdeboeck							
+977	CN1448-49-49					6	Mozambique-CIP		bdeboeck							
+978	CN1448-49-5					6	Mozambique-CIP		bdeboeck							
+979	CN1448-49-50					6	Mozambique-CIP		bdeboeck							
+980	CN1448-49-6					6	Mozambique-CIP		bdeboeck							
+981	CN1448-49-7					6	Mozambique-CIP		bdeboeck							
+982	CN1448-49-8					6	Mozambique-CIP		bdeboeck							
+983	CN1448-49-9					6	Mozambique-CIP		bdeboeck							
+984	Col.18-1-1					6	Mozambique-CIP		bdeboeck							
+985	Comensal					6	Ghana-CIP		bdeboeck							
+986	Cordner-1					6	Mozambique-CIP		bdeboeck							
+987	Cordner-10					6	Mozambique-CIP		bdeboeck							
+988	Cordner-11					6	Mozambique-CIP		bdeboeck							
+989	Cordner-12					6	Mozambique-CIP		bdeboeck							
+990	Cordner-13					6	Mozambique-CIP		bdeboeck							
+991	Cordner-14					6	Mozambique-CIP		bdeboeck							
+992	Cordner-15					6	Mozambique-CIP		bdeboeck							
+993	Cordner-16					6	Mozambique-CIP		bdeboeck							
+994	Cordner-17					6	Mozambique-CIP		bdeboeck							
+995	Cordner-18					6	Mozambique-CIP		bdeboeck							
+996	Cordner-19					6	Mozambique-CIP		bdeboeck							
+997	Cordner-2					6	Mozambique-CIP		bdeboeck							
+998	Cordner-20					6	Mozambique-CIP		bdeboeck							
+999	Cordner-21					6	Mozambique-CIP		bdeboeck							
+1000	Cordner-22					6	Mozambique-CIP		bdeboeck							
+1001	Cordner-23					6	Mozambique-CIP		bdeboeck							
+1002	Cordner-24					6	Mozambique-CIP		bdeboeck							
+1003	Cordner-25					6	Mozambique-CIP		bdeboeck							
+1004	Cordner-26					6	Mozambique-CIP		bdeboeck							
+1005	Cordner-27					6	Mozambique-CIP		bdeboeck							
+1006	Cordner-28					6	Mozambique-CIP		bdeboeck							
+1007	Cordner-29					6	Mozambique-CIP		bdeboeck							
+1008	Cordner-3					6	Mozambique-CIP		bdeboeck							
+1009	Cordner-30					6	Mozambique-CIP		bdeboeck							
+1010	Cordner-31					6	Mozambique-CIP		bdeboeck							
+1011	Cordner-32					6	Mozambique-CIP		bdeboeck							
+1012	Cordner-33					6	Mozambique-CIP		bdeboeck							
+1013	Cordner-34					6	Mozambique-CIP		bdeboeck							
+1014	Cordner-35					6	Mozambique-CIP		bdeboeck							
+1015	Cordner-36					6	Mozambique-CIP		bdeboeck							
+1016	Cordner-37					6	Mozambique-CIP		bdeboeck							
+1017	Cordner-38					6	Mozambique-CIP		bdeboeck							
+1018	Cordner-39					6	Mozambique-CIP		bdeboeck							
+1019	Cordner-4					6	Mozambique-CIP		bdeboeck							
+1020	Cordner-5					6	Mozambique-CIP		bdeboeck							
+1021	Cordner-6					6	Mozambique-CIP		bdeboeck							
+1022	Cordner-7					6	Mozambique-CIP		bdeboeck							
+1023	Cordner-8					6	Mozambique-CIP		bdeboeck							
+1024	Cordner-9					6	Mozambique-CIP		bdeboeck							
+1025	Costanero					6	Peru-CIP		bdeboeck							
+1026	CRI-Apomuden	Kamala_Sundari				6	Ghana-CIP		bdeboeck							
+1027	CRI-Dadanyuie	Kemb_37				6	Ghana-CIP		bdeboeck							
+1028	CRI-Hi_Starch					6	Ghana-CIP		bdeboeck							
+1029	CRI-Otoo	Mogamba				6	Ghana-CIP		bdeboeck							
+1030	CRI-Patron					6	Ghana-CIP		bdeboeck							
+1031	Cubana					6	Mozambique-CIP		bdeboeck							
+1032	Damongo					6	Ghana-CIP		bdeboeck							
+1033	Delvia					6	Uganda-CIP		bdeboeck							
+1034	Dimbuka_Bukulula	HMA496	 PU2014_A34	 PU2014_B03	 PU2017_MDPA3	6	Uganda-CIP		bdeboeck							
+1035	DLP3163	PU2014_B50				6	Uganda-CIP		bdeboeck							
+1036	Ejumula	PU2014_A02				6	Uganda-CIP		bdeboeck							
+1037	Ejumula_55					6	Mozambique-CIP		bdeboeck							
+1038	Ejumula_62					6	Mozambique-CIP		bdeboeck							
+1039	Ejumula_74					6	Mozambique-CIP		bdeboeck							
+1040	Ejumula_8					6	Mozambique-CIP		bdeboeck							
+1041	Ejumula_86					6	Mozambique-CIP		bdeboeck							
+1042	Ejumula_87					6	Mozambique-CIP		bdeboeck							
+1043	Ejumula_9					6	Mozambique-CIP		bdeboeck							
+1044	Erica	UW11906-284				6	Uganda-CIP		bdeboeck							
+1045	Esther					6	Mozambique-CIP		bdeboeck							
+1046	Excel					6	Ghana-CIP		bdeboeck							
+1047	Excel/5					6	Ghana-CIP		bdeboeck							
+1048	Ex-Shia_Hills					6	Ghana-CIP		bdeboeck							
+1049	Faara	TIS3017				6	Ghana-CIP		bdeboeck							
+1050	Farmer_variety					6	Ghana-CIP		bdeboeck							
+1051	Gaba_Gaba					6	Mozambique-CIP		bdeboeck							
+1052	Gloria					6	Uganda-CIP		bdeboeck							
+1053	Gweri					6	Ghana-CIP		bdeboeck							
+1054	Helena					6	Ghana-CIP		bdeboeck							
+1055	HMA490	Kawogo	 PU2014_B27			6	Uganda-CIP		bdeboeck							
+1056	Huambachero					6	Peru-CIP		bdeboeck							
+1057	Huarmeyano	PU2014_B80	 PU2017_MDPB8			6	Uganda-CIP		bdeboeck							
+1058	IGA978	PU2014_B25				6	Uganda-CIP		bdeboeck							
+1059	IGA983	Silimu	 PU2014_A44			6	Uganda-CIP		bdeboeck							
+1060	IGA994	PU2014_B64				6	Uganda-CIP		bdeboeck							
+1061	IGA998	Kunduguzaempyaka	 PU2014_B61			6	Uganda-CIP		bdeboeck							
+1062	IITA-TIB_4					6	Ghana-CIP		bdeboeck							
+1063	Imby					6	Ghana-CIP		bdeboeck							
+1064	INA100					6	Peru-CIP		bdeboeck							
+1065	Ininda	Tacna2				6	Uganda-CIP		bdeboeck							
+1066	Irene					6	Uganda-CIP		bdeboeck							
+1067	Isabel	PJ05.236				6	Peru-CIP		bdeboeck							
+1068	Ivone					6	Mozambique-CIP		bdeboeck							
+1069	Jane	LO323-1				6	Uganda-CIP		bdeboeck							
+1070	Japones_Tresmesino_Selecto					6	Mozambique-CIP		bdeboeck							
+1071	Jewel	PU2014_B69				6	Uganda-CIP		bdeboeck							
+1072	Jewel-13					6	Mozambique-CIP		bdeboeck							
+1073	Jewel-27					6	Mozambique-CIP		bdeboeck							
+1074	Jewel-41					6	Mozambique-CIP		bdeboeck							
+1075	Jewel-47					6	Mozambique-CIP		bdeboeck							
+1076	Jewel-52					6	Mozambique-CIP		bdeboeck							
+1077	Jewel-78					6	Mozambique-CIP		bdeboeck							
+1078	Jewel-80					6	Mozambique-CIP		bdeboeck							
+1079	Jitihada					6	Ghana-CIP		bdeboeck							
+1080	Joe					6	Uganda-CIP		bdeboeck							
+1081	Jonathan	PU2014_B35				6	Uganda-CIP		bdeboeck							
+1082	Jukwa_Orange					6	Ghana-CIP		bdeboeck							
+1083	Julian					6	Ghana-CIP		bdeboeck							
+1084	K_566632	PU2014_B55				6	Uganda-CIP		bdeboeck							
+1085	K135					6	Ghana-CIP		bdeboeck							
+1086	Kala	PU2014_A13				6	Uganda-CIP		bdeboeck							
+1087	Kamamanzi	KBL619	 PU2014_A05			6	Uganda-CIP		bdeboeck							
+1088	Kandee					6	Ghana-CIP		bdeboeck							
+1089	Kassinga					6	Ghana-CIP		bdeboeck							
+1090	Kawungezi					6	Uganda-CIP		bdeboeck							
+1091	KBL611	Burundi	 PU2014_B58			6	Uganda-CIP		bdeboeck							
+1092	KBL618	Kigabali	 PU2014_B23			6	Uganda-CIP		bdeboeck							
+1093	KBL631	PU2014_A07				6	Uganda-CIP		bdeboeck							
+1094	KBL648	PU2014_A14				6	Uganda-CIP		bdeboeck							
+1095	KBL650	PU2014_B12				6	Uganda-CIP		bdeboeck							
+1096	Kemb_10	Sauti				6	Ghana-CIP		bdeboeck							
+1097	Kemb_27					6	Peru-CIP		bdeboeck							
+1098	Kenya_A					6	Ghana-CIP		bdeboeck							
+1099	Kenya_B					6	Ghana-CIP		bdeboeck							
+1100	King_J	UMUSPO/1				6	Ghana-CIP		bdeboeck							
+1101	KMI59	PU2014_A36				6	Uganda-CIP		bdeboeck							
+1102	KMI61	PU2014_A06				6	Uganda-CIP		bdeboeck							
+1103	KMI88	PU2014_A42				6	Uganda-CIP		bdeboeck							
+1104	KML872	PU2014_A32				6	Uganda-CIP		bdeboeck							
+1105	KML881	PU2014_A21				6	Uganda-CIP		bdeboeck							
+1106	KML942	PU2014_B10				6	Uganda-CIP		bdeboeck							
+1107	KML956	PU2014_A15				6	Uganda-CIP		bdeboeck							
+1108	KML960	PU2014_B36				6	Uganda-CIP		bdeboeck							
+1109	Koka6					6	Ghana-CIP		bdeboeck							
+1110	Koromojo	ARA209	 PU2014_B02			6	Uganda-CIP		bdeboeck							
+1111	Koromojo_Red	ARA224	 PU2014_B49			6	Uganda-CIP		bdeboeck							
+1112	KRE691	Kalebe	 PU2014_B16			6	Uganda-CIP		bdeboeck							
+1113	KRE696	PU2014_B75				6	Uganda-CIP		bdeboeck							
+1114	KRE723	PU2014_B31				6	Uganda-CIP		bdeboeck							
+1115	KSR662	PU2014_B18				6	Uganda-CIP		bdeboeck							
+1116	Kuffour					6	Ghana-CIP		bdeboeck							
+1117	Kyabafuruki	PU2014_B73				6	Uganda-CIP		bdeboeck							
+1118	Lanwara					6	Ghana-CIP		bdeboeck							
+1119	LIR258	PU2014_B42				6	Uganda-CIP		bdeboeck							
+1120	LIR302	PU2014_B11				6	Uganda-CIP		bdeboeck							
+1121	LO323					6	Mozambique-CIP		bdeboeck							
+1122	Local					6	Ghana-CIP		bdeboeck							
+1123	Lourdes	UW11906-140				6	Uganda-CIP		bdeboeck							
+1124	LUW1230	PU2014_B05				6	Uganda-CIP		bdeboeck							
+1125	LUW1257	PU2014_B15				6	Uganda-CIP		bdeboeck							
+1126	LUW1274	PU2014_A28				6	Uganda-CIP		bdeboeck							
+1127	MafuthaxMGCLO1-3					6	Mozambique-CIP		bdeboeck							
+1128	MafuthaXResisto-102					6	Mozambique-CIP		bdeboeck							
+1129	MafuthaXResisto-111					6	Mozambique-CIP		bdeboeck							
+1130	MafuthaXResisto-123					6	Mozambique-CIP		bdeboeck							
+1131	MafuthaXResisto-16					6	Mozambique-CIP		bdeboeck							
+1132	MafuthaXResisto-194					6	Mozambique-CIP		bdeboeck							
+1133	MafuthaXResisto-218					6	Mozambique-CIP		bdeboeck							
+1134	MafuthaXResisto-234					6	Mozambique-CIP		bdeboeck							
+1135	MafuthaXResisto-27					6	Mozambique-CIP		bdeboeck							
+1136	MafuthaXResisto-82					6	Mozambique-CIP		bdeboeck							
+1137	MafuthaXResisto-9					6	Mozambique-CIP		bdeboeck							
+1138	Magabali	PU2014_B22	 PU2017_MDPB2			6	Uganda-CIP		bdeboeck							
+1139	Maphuta-3					6	Mozambique-CIP		bdeboeck							
+1140	Margarete					6	Mozambique-CIP		bdeboeck							
+1141	Maria_Angola					6	Ghana-CIP		bdeboeck							
+1142	Mary	PU2014_B09				6	Uganda-CIP		bdeboeck							
+1143	Mayai	PU2014_A03				6	Uganda-CIP		bdeboeck							
+1144	MBR536	Karebe	 PU2014_B17			6	Uganda-CIP		bdeboeck							
+1145	MBR552	Kahungezi	 PU2014_B24			6	Uganda-CIP		bdeboeck							
+1146	Melinda	UW119-15				6	Uganda-CIP		bdeboeck							
+1147	MGCL01					6	Mozambique-CIP		bdeboeck							
+1148	MGCL01-1					6	Mozambique-CIP		bdeboeck							
+1149	MGCL01-17					6	Mozambique-CIP		bdeboeck							
+1150	MGCL01-2					6	Mozambique-CIP		bdeboeck							
+1151	MGCL01-3					6	Mozambique-CIP		bdeboeck							
+1152	MGCL01XResisto-70					6	Mozambique-CIP		bdeboeck							
+1153	Milagrosa					6	Peru-CIP		bdeboeck							
+1154	MKN1168	PU2014_A37				6	Uganda-CIP		bdeboeck							
+1155	MKN1171	PU2014_B59				6	Uganda-CIP		bdeboeck							
+1156	MKN1180	PU2014_B14				6	Uganda-CIP		bdeboeck							
+1157	MKN1210	PU2014_B29				6	Uganda-CIP		bdeboeck							
+1158	MLE163	Kyebandula	 PU2014_B21			6	Uganda-CIP		bdeboeck							
+1159	MLE179	PU2014_B19				6	Uganda-CIP		bdeboeck							
+1160	MLE191	Tuulansime	 PU2014_B60			6	Uganda-CIP		bdeboeck							
+1161	MLE194	Shock	 PU2014_A50			6	Uganda-CIP		bdeboeck							
+1162	MLE199	Bungoma	 PU2014_B08			6	Uganda-CIP		bdeboeck							
+1163	Mohc					6	Peru-CIP		bdeboeck							
+1164	Mothers_Delight	UMUSPO/3				6	Ghana-CIP		bdeboeck							
+1165	MPG1122	PU2014_B45				6	Uganda-CIP		bdeboeck							
+1166	MPG1128	PU2014_A11				6	Uganda-CIP		bdeboeck							
+1167	MPG1128/5					6	Ghana-CIP		bdeboeck							
+1168	MPG1146	Mpambire	 PU2014_A26			6	Uganda-CIP		bdeboeck							
+1169	MPG1148	Gulu	 PU2014_A43			6	Uganda-CIP		bdeboeck							
+1170	MPG1151	PU2014_B13				6	Uganda-CIP		bdeboeck							
+1171	MPG1158	PU2014_B34				6	Uganda-CIP		bdeboeck							
+1172	MSD380	Malagalia	 PU2014_B04			6	Uganda-CIP		bdeboeck							
+1173	MSD384	Suwedi	 PU2014_A47			6	Uganda-CIP		bdeboeck							
+1174	MSD431	Kalobo	 PU2014_B20			6	Uganda-CIP		bdeboeck							
+1175	MSK1040	PU2014_A33				6	Uganda-CIP		bdeboeck							
+1176	MSK1079	PU2014_B46				6	Uganda-CIP		bdeboeck							
+1177	MSK1094	PU2014_B51				6	Uganda-CIP		bdeboeck							
+1178	Mugande	PU2014_B48	 PU2017_MDPB5	 CIP444177	 CRI-Ogyefo	6	Uganda-CIP		bdeboeck							
+1179	Namanga	UW11906-175				6	Mozambique-CIP		bdeboeck							
+1180	Nambanurifiang					6	Ghana-CIP		bdeboeck							
+1181	Narunmitang					6	Ghana-CIP		bdeboeck							
+1182	NAS5/4					6	Ghana-CIP		bdeboeck							
+1183	NAS5/5A					6	Ghana-CIP		bdeboeck							
+1184	Nasam_Red_Vines					6	Ghana-CIP		bdeboeck							
+1185	NASPOT_1	NIS/91/52	 PU2014_A24	 PU2017_MDPA2		6	Uganda-CIP		bdeboeck							
+1186	NASPOT_10_O	Kabode	 NIS/2002/SPK004/6/6	 PU2014_A31	 PU2017_MDPA7	6	Uganda-CIP		bdeboeck							
+1187	NASPOT_11	Tomulabula	 NK1081L	 PU2014_B54	 PU2017_MDPB6	6	Uganda-CIP		bdeboeck							
+1188	NASPOT_12_O	SPK004/2006/1136	 Gerald			6	Uganda-CIP		bdeboeck							
+1189	NASPOT_13_O	NASPOT7/2006/292	 Joweria			6	Uganda-CIP		bdeboeck							
+1190	NASPOT_2					6	Uganda-CIP		bdeboeck							
+1191	NASPOT_3	PU2014_B53				6	Uganda-CIP		bdeboeck							
+1192	NASPOT_4					6	Uganda-CIP		bdeboeck							
+1193	NASPOT_5	PU2014_B30	 PU2017_MDPB3			6	Uganda-CIP		bdeboeck							
+1194	NASPOT_6					6	Uganda-CIP		bdeboeck							
+1195	NASPOT_7	PU2014_A30	 PU2017_MDPA5			6	Uganda-CIP		bdeboeck							
+1196	NASPOT_8	NIS/2002/SPK004/1/1				6	Uganda-CIP		bdeboeck							
+1197	NASPOT_9_O	SPK004/6	 Vita	 PU2014_A22		6	Uganda-CIP		bdeboeck							
+1198	NASPOT5/58	PU2014_A04	 PU2017_MDPA4			6	Uganda-CIP		bdeboeck							
+1199	Naveto	PU2014_B65	 CIP444174			6	Uganda-CIP		bdeboeck							
+1200	NC01-351-1					6	Mozambique-CIP		bdeboeck							
+1201	NC01-351-2					6	Mozambique-CIP		bdeboeck							
+1202	NC01-351-3					6	Mozambique-CIP		bdeboeck							
+1203	NC97A04-1					6	Mozambique-CIP		bdeboeck							
+1204	NC97A04-2					6	Mozambique-CIP		bdeboeck							
+1205	NC97A04-3					6	Mozambique-CIP		bdeboeck							
+1206	NC97A04-4					6	Mozambique-CIP		bdeboeck							
+1207	NC-98-076-07XResisto-125					6	Mozambique-CIP		bdeboeck							
+1208	NC-98-076-07XResisto-32					6	Mozambique-CIP		bdeboeck							
+1209	NC98076-13-3					6	Mozambique-CIP		bdeboeck							
+1210	NC99573-50-07-02					6	Mozambique-CIP		bdeboeck							
+1211	NCSU_1560					6	Peru-CIP		bdeboeck							
+1212	New_Kawogo	PU2014_B56	 PU2017_MDPB7	 CIP441743		6	Uganda-CIP		bdeboeck							
+1213	Nhacoongo1					6	Mozambique-CIP		bdeboeck							
+1214	Nhacutse5					6	Mozambique-CIP		bdeboeck							
+1215	Nhancoongo1XResisto-111					6	Mozambique-CIP		bdeboeck							
+1216	Nhancoongo1XResisto-117					6	Mozambique-CIP		bdeboeck							
+1217	Nhancoongo1XResisto-42					6	Mozambique-CIP		bdeboeck							
+1218	Nhancoongo1XResisto-50					6	Mozambique-CIP		bdeboeck							
+1219	Nhancoongo1xResisto-63					6	Mozambique-CIP		bdeboeck							
+1220	Nhancoongo1XResisto-79					6	Mozambique-CIP		bdeboeck							
+1221	Night					6	Uganda-CIP		bdeboeck							
+1222	Ningshu_1					6	Peru-CIP		bdeboeck							
+1223	NK259L	PU2014_A20	 PU2017_MDPA8			6	Uganda-CIP		bdeboeck							
+1224	NK318L	PU2014_A49				6	Uganda-CIP		bdeboeck							
+1225	NKO16					6	Ghana-CIP		bdeboeck							
+1226	NKO31A					6	Ghana-CIP		bdeboeck							
+1227	NKO3A					6	Ghana-CIP		bdeboeck							
+1228	NwamonguaneXResisto-57					6	Mozambique-CIP		bdeboeck							
+1229	NwamonguaneXResisto-66					6	Mozambique-CIP		bdeboeck							
+1230	Nyanyupela					6	Ghana-CIP		bdeboeck							
+1231	Oguroiwe	PU2014_A35				6	Uganda-CIP		bdeboeck							
+1232	Okumkom	CRI-Okumkom	 TIS8266			6	Ghana-CIP		bdeboeck							
+1233	Organsagen					6	Ghana-CIP		bdeboeck							
+1234	Otada	PU2014_A40				6	Uganda-CIP		bdeboeck							
+1235	PAL108	Dagadaga	 PU2014_A45			6	Uganda-CIP		bdeboeck							
+1236	PAL134	Namusoga	 PU2014_B62			6	Uganda-CIP		bdeboeck							
+1237	PAL148	PU2014_B43				6	Uganda-CIP		bdeboeck							
+1238	Pipi					6	Ghana-CIP		bdeboeck							
+1239	PJ05.052 	Abigail				6	Peru-CIP		bdeboeck							
+1240	Plot143					6	Ghana-CIP		bdeboeck							
+1241	Polista					6	Ghana-CIP		bdeboeck							
+1242	Prupru					6	Ghana-CIP		bdeboeck							
+1243	PZ06.077	Benjamin				6	Peru-CIP		bdeboeck							
+1244	PZ06.085	Arne				6	Peru-CIP		bdeboeck							
+1245	Raihna	PU2014_B76				6	Uganda-CIP		bdeboeck							
+1246	RAK786	PU2014_A10				6	Uganda-CIP		bdeboeck							
+1247	RAK808	PU2014_A25				6	Uganda-CIP		bdeboeck							
+1248	RAK819	PU2014_A18				6	Uganda-CIP		bdeboeck							
+1249	RAK835	PU2014_A46				6	Uganda-CIP		bdeboeck							
+1250	RAK848	PU2014_B47				6	Uganda-CIP		bdeboeck							
+1251	RAK865	PU2014_B44				6	Uganda-CIP		bdeboeck							
+1252	Resisto	PU2014_B01	 PU2017_MDPB1			6	Uganda-CIP		bdeboeck							
+1253	Resisto_CIP	PU2014_B71				6	Uganda-CIP		bdeboeck							
+1254	Resisto-Nairobi					6	Mozambique-CIP		bdeboeck							
+1255	ResistoXMGCL01-13					6	Mozambique-CIP		bdeboeck							
+1256	ResistoXMGCL01-26					6	Mozambique-CIP		bdeboeck							
+1257	ResistoXMGCL01-27					6	Mozambique-CIP		bdeboeck							
+1258	ResistoXMGCL01-35					6	Mozambique-CIP		bdeboeck							
+1259	ResistoXMGCL01-39					6	Mozambique-CIP		bdeboeck							
+1260	ResistoXMGCL01-49					6	Mozambique-CIP		bdeboeck							
+1261	ResistoXMGCL01-87					6	Mozambique-CIP		bdeboeck							
+1262	Salyboro					6	Peru-CIP		bdeboeck							
+1263	Santa_Amaro	PU2014_B79				6	Uganda-CIP		bdeboeck							
+1264	Santom_Pona	TIS84/0320				6	Ghana-CIP		bdeboeck							
+1265	SARI-Nan	Nanungungungu	 Nan			6	Ghana-CIP		bdeboeck							
+1266	SARI-Nyumingre	Obare				6	Ghana-CIP		bdeboeck							
+1267	Silk_Omuyaka	PAL94	 PU2014_A09			6	Uganda-CIP		bdeboeck							
+1268	Silk1254	PU2014_A17				6	Uganda-CIP		bdeboeck							
+1269	Sinia					6	Ghana-CIP		bdeboeck							
+1270	Sowola	PU2014_B26				6	Uganda-CIP		bdeboeck							
+1271	SP3736					6	Ghana-CIP		bdeboeck							
+1272	SPK004	Kakamega	 PU2014_A19	 PU2017_MDPA6	 CIP441768	6	Uganda-CIP		bdeboeck							
+1273	SPK004_CIP	PU2014_B33				6	Uganda-CIP		bdeboeck							
+1274	SPK013					6	Ghana-CIP		bdeboeck							
+1275	Sponge	PU2014_A29				6	Uganda-CIP		bdeboeck							
+1276	SR01.018					6	Peru-CIP		bdeboeck							
+1277	SR02.167					6	Peru-CIP		bdeboeck							
+1278	SRT01	Osapat	 PU2014_B40			6	Uganda-CIP		bdeboeck							
+1279	SRT27	Kigaire	 PU2014_A48			6	Uganda-CIP		bdeboeck							
+1280	SRT28	Epura_Amojong	 PU2014_B07			6	Uganda-CIP		bdeboeck							
+1281	SRT41	PU2014_B39				6	Uganda-CIP		bdeboeck							
+1282	SRT43	Osukut	 PU2014_B06			6	Uganda-CIP		bdeboeck							
+1283	Sumaia	UW11906-289				6	Uganda-CIP		bdeboeck							
+1284	Sumi					6	Peru-CIP		bdeboeck							
+1285	TA64/18					6	Ghana-CIP		bdeboeck							
+1286	Tacna					6	Peru-CIP		bdeboeck							
+1287	Tacna1					6	Mozambique-CIP		bdeboeck							
+1288	Tacna3					6	Mozambique-CIP		bdeboeck							
+1289	TacnaXResisto-12					6	Mozambique-CIP		bdeboeck							
+1290	Tainung_64	PU2014_B74				6	Uganda-CIP		bdeboeck							
+1291	Tainung_65					6	Ghana-CIP		bdeboeck							
+1292	Tamale_Orange					6	Ghana-CIP		bdeboeck							
+1293	Tanzania	ARA236	 PU2014_A12	 PU2014_B32		6	Uganda-CIP		bdeboeck							
+1294	Tek_Santom					6	Ghana-CIP		bdeboeck							
+1295	Tengerere	PAL133	 PU2014_A08			6	Uganda-CIP		bdeboeck							
+1296	Tiebele-2					6	Ghana-CIP		bdeboeck							
+1297	Tio_Joe	MUSG0616_18				6	Ghana-CIP		bdeboeck							
+1298	TIS_2534					6	Ghana-CIP		bdeboeck							
+1299	TIS_3290					6	Ghana-CIP		bdeboeck							
+1300	TIS_9101	PU2014_B52				6	Uganda-CIP		bdeboeck							
+1301	TIS_9265	PU2014_B77				6	Uganda-CIP		bdeboeck							
+1302	TIS_9265/10					6	Ghana-CIP		bdeboeck							
+1303	Tororo3	PU2014_A23				6	Uganda-CIP		bdeboeck							
+1304	Travis					6	Ghana-CIP		bdeboeck							
+1305	TU_112					6	Ghana-CIP		bdeboeck							
+1306	Tuatubaina					6	Ghana-CIP		bdeboeck							
+1307	Tucumana_Mantecosa					6	Ghana-CIP		bdeboeck							
+1308	TU-Mix					6	Ghana-CIP		bdeboeck							
+1309	TU-Orange					6	Ghana-CIP		bdeboeck							
+1310	TU-Purple	SARI-Diedi				6	Ghana-CIP		bdeboeck							
+1311	U199062.106-5					6	Mozambique-CIP		bdeboeck							
+1312	U199062.1-335					6	Mozambique-CIP		bdeboeck							
+1313	U199062.1-336					6	Mozambique-CIP		bdeboeck							
+1314	U1998-12-306-3					6	Mozambique-CIP		bdeboeck							
+1315	U1998-2-3XResi					6	Mozambique-CIP		bdeboeck							
+1316	U1998-2-3XResisto-110					6	Mozambique-CIP		bdeboeck							
+1317	U97A04-28-07-07					6	Mozambique-CIP		bdeboeck							
+1318	Ubeuregaard-07-05					6	Mozambique-CIP		bdeboeck							
+1319	Ubeuregard-U07-12					6	Mozambique-CIP		bdeboeck							
+1320	Uchingova06-1					6	Mozambique-CIP		bdeboeck							
+1321	UCOL1806-4					6	Mozambique-CIP		bdeboeck							
+1322	Ucordner-07-01					6	Mozambique-CIP		bdeboeck							
+1323	Uejumula-U07-13					6	Mozambique-CIP		bdeboeck							
+1324	Uejumula-U07-21					6	Mozambique-CIP		bdeboeck							
+1325	Uejumula-U07-32					6	Mozambique-CIP		bdeboeck							
+1326	Uejumula-U07-37					6	Mozambique-CIP		bdeboeck							
+1327	Uejumula-U07-39					6	Mozambique-CIP		bdeboeck							
+1328	Uejumula-U07-52					6	Mozambique-CIP		bdeboeck							
+1329	Uejumula-U07-93					6	Mozambique-CIP		bdeboeck							
+1330	Ujewel-U07-01					6	Mozambique-CIP		bdeboeck							
+1331	Ujewel-U07-09					6	Mozambique-CIP		bdeboeck							
+1332	Ujewel-U07-17					6	Mozambique-CIP		bdeboeck							
+1333	Ujewel-U07-19					6	Mozambique-CIP		bdeboeck							
+1334	Ujewel-U07-57					6	Mozambique-CIP		bdeboeck							
+1335	Ujewel-U07-58					6	Mozambique-CIP		bdeboeck							
+1336	Ujewel-U07-66					6	Mozambique-CIP		bdeboeck							
+1337	UJONATHAN06-11					6	Mozambique-CIP		bdeboeck							
+1338	UJONATHAN06-23					6	Mozambique-CIP		bdeboeck							
+1339	Ukerewe	PU2014_A41				6	Uganda-CIP		bdeboeck							
+1340	ULO32306-04					6	Mozambique-CIP		bdeboeck							
+1341	UMafutha06-3					6	Mozambique-CIP		bdeboeck							
+1342	UMGCL0106-4					6	Mozambique-CIP		bdeboeck							
+1343	UNASPOT06-02					6	Mozambique-CIP		bdeboeck							
+1344	UNASPOT06-2					6	Mozambique-CIP		bdeboeck							
+1345	UNC98076-13-07-01					6	Mozambique-CIP		bdeboeck							
+1346	Unguija-18					6	Mozambique-CIP		bdeboeck							
+1347	UNhacoongo1-06-4					6	Mozambique-CIP		bdeboeck							
+1348	UNWAMAZ06-01					6	Mozambique-CIP		bdeboeck							
+1349	UW11906-111					6	Mozambique-CIP		bdeboeck							
+1350	UW11906-182					6	Mozambique-CIP		bdeboeck							
+1351	UW11906-198					6	Mozambique-CIP		bdeboeck							
+1352	UW11906-204					6	Mozambique-CIP		bdeboeck							
+1353	UW11906-207					6	Mozambique-CIP		bdeboeck							
+1354	UW11906-270					6	Mozambique-CIP		bdeboeck							
+1355	UW11906-271					6	Mozambique-CIP		bdeboeck							
+1356	UW11906-277					6	Mozambique-CIP		bdeboeck							
+1357	UW11906-282					6	Mozambique-CIP		bdeboeck							
+1358	UW11906-290					6	Mozambique-CIP		bdeboeck							
+1359	UW11906-296					6	Mozambique-CIP		bdeboeck							
+1360	UW11906-297					6	Mozambique-CIP		bdeboeck							
+1361	UW11906-302					6	Mozambique-CIP		bdeboeck							
+1362	UW11906-318					6	Mozambique-CIP		bdeboeck							
+1363	UW11906-32					6	Mozambique-CIP		bdeboeck							
+1364	UW11906-322					6	Mozambique-CIP		bdeboeck							
+1365	UW11906-39					6	Mozambique-CIP		bdeboeck							
+1366	UW11906-79					6	Ghana-CIP		bdeboeck							
+1367	UW11906-80					6	Mozambique-CIP		bdeboeck							
+1368	UW11907-01					6	Mozambique-CIP		bdeboeck							
+1369	UW11907-10					6	Mozambique-CIP		bdeboeck							
+1370	UW250-06-07-03					6	Mozambique-CIP		bdeboeck							
+1371	UW250-31A-07-01					6	Mozambique-CIP		bdeboeck							
+1372	UW250A-47-07-03					6	Mozambique-CIP		bdeboeck							
+1373	UXiphone06-1					6	Mozambique-CIP		bdeboeck							
+1374	Victoria					6	Mozambique-CIP		bdeboeck							
+1375	Violeta					6	Mozambique-CIP		bdeboeck							
+1376	Voggu_Orange					6	Ghana-CIP		bdeboeck							
+1377	VSP3					6	Ghana-CIP		bdeboeck							
+1378	VSP4					6	Ghana-CIP		bdeboeck							
+1379	W119					6	Ghana-CIP		bdeboeck							
+1380	W119-12					6	Mozambique-CIP		bdeboeck							
+1381	W119-15					6	Mozambique-CIP		bdeboeck							
+1382	W151					6	Mozambique-CIP		bdeboeck							
+1383	W208					6	Ghana-CIP		bdeboeck							
+1384	W222					6	Ghana-CIP		bdeboeck							
+1385	W250-1					6	Mozambique-CIP		bdeboeck							
+1386	W250-2					6	Mozambique-CIP		bdeboeck							
+1387	W250-25-5					6	Mozambique-CIP		bdeboeck							
+1388	W250-3					6	Mozambique-CIP		bdeboeck							
+1389	W250A-23-1					6	Mozambique-CIP		bdeboeck							
+1390	W250A-31-1					6	Mozambique-CIP		bdeboeck							
+1391	W250A-31-2					6	Mozambique-CIP		bdeboeck							
+1392	Wagabolige	PU2014_B41	 PU2017_MDPB4			6	Uganda-CIP		bdeboeck							
+1393	Waljoji					6	Ghana-CIP		bdeboeck							
+1394	Woksaken					6	Ghana-CIP		bdeboeck							
+1395	WT_237	PU2014_B63				6	Uganda-CIP		bdeboeck							
+1396	Xiadlaxakau					6	Mozambique-CIP		bdeboeck							
+1397	Xiphone					6	Mozambique-CIP		bdeboeck							
+1398	XiphonexResisto-12					6	Mozambique-CIP		bdeboeck							
+1399	XiphoneXResisto-13					6	Mozambique-CIP		bdeboeck							
+1400	XiphoneXResisto-17					6	Mozambique-CIP		bdeboeck							
+1401	XiphoneXResisto-24					6	Mozambique-CIP		bdeboeck							
+1402	XiphonexResisto-3					6	Mozambique-CIP		bdeboeck							
+1403	XiphoneXResisto-40					6	Mozambique-CIP		bdeboeck							
+1404	XiphoneXResisto-43					6	Mozambique-CIP		bdeboeck							
+1405	XiphoneXResisto-48					6	Mozambique-CIP		bdeboeck							
+1406	XiphoneXResisto-52					6	Mozambique-CIP		bdeboeck							
+1407	Xitsekele					6	Mozambique-CIP		bdeboeck							
+1408	Xushu18	PU2014_B66				6	Uganda-CIP		bdeboeck							
+1409	Yanshu_1	PU2014_B67				6	Uganda-CIP		bdeboeck							
+1410	Yarada					6	Peru-CIP		bdeboeck							
+1411	Yurimaguas					6	Peru-CIP		bdeboeck							
+1412	Zambezi	PU2014_B68				6	Uganda-CIP		bdeboeck							
+1413	Zapallo					6	Peru-CIP		bdeboeck							
+1414	Zondeni	Kampalendo	 Kantedza	 Nyamatanga	 Kalonga	6	Ghana-CIP		bdeboeck							

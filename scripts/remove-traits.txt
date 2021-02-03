@@ -1,0 +1,3 @@
+Plot Name: GHP2016FMS-AT02-00002<br/>Trait Name: Storage root cracking estimating 0-7|CO_331:0000239<br/>Value: 1
+
+open ghana_pheno/unix_pheno_GHP2013KMD-PT01.csv

@@ -1,0 +1,2 @@
+trial_name	trial_description	trial_type	trial_location	year	design	breeding_program	planting_date	harvest_date	newFile	
+UGP2018SER-ST01	Number of genotypes: 20;  number of reps: 3. Genetic gain trial	genetic_gain_trial	Serere	2018	RCBD	Uganda-CIP			/Users/christiano/Documents/scripts/uganda_txt/new_UGP2018SER-ST01.txt	
