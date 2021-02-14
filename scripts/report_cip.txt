@@ -1,0 +1,112 @@
+***********************************************
+Breeding program: Peru
+***********************************************
+Inconsistency between trial and file names: PEP2019ICA-ST02 - PEP2019ICA-ST03
+Inconsistency between trial and file names: PEP2019ICA-ST01 - PEP2019ICA-ST02
+Inconsistency between trial and file names: PEP2016HUA-ST01 - PEP2016HUA-ST02
+Strange plot sequence in trial PEP2016HUA-ST01
+Inconsistency between trial and file names: PEP2019ICA-ST02 - PEP2019ICA-ST04
+Strange plot sequence in trial PEP2019ICA-ST02
+Inconsistency between trial and file names: PEP2016ICA-ST01 - PEP2016ICA-ST02
+Strange plot sequence in trial PEP2016ICA-ST01
+Inconsistency between trial and file names: PEP2018CSR-ST02 - PEP2018CSR-ST04
+Strange plot sequence in trial PEP2018CSR-ST02
+Strange plot sequence in trial PEP2016ICA-ST01
+Inconsistency between trial and plot names: PEP2019HUA-ST02 - PEP2019HUA-ST01
+Inconsistency between trial and file names: PEP2019HUA-ST02 - PEP2019HUA-ST04
+Strange plot sequence in trial PEP2019HUA-ST02
+Inconsistency between trial and file names: PEP2018CSR-ST02 - PEP2018CSR-ST03
+Strange plot sequence in trial PEP2016SAT-ST01
+Strange plot sequence in trial PEP2019HUA-ST01
+Inconsistency between trial and file names: PEP2018CSR-ST01 - PEP2018CSR-ST02
+Strange plot sequence in trial PEP2018CSR-ST01
+Inconsistency between trial and plot names: PEP2019HUA-ST02 - PEP2019HUA-ST01
+Inconsistency between trial and file names: PEP2019HUA-ST02 - PEP2019HUA-ST03
+Strange plot sequence in trial PEP2019HUA-ST02
+Inconsistency between trial and file names: PEP2016SAT-ST01 - PEP2016SAT-ST02
+Strange plot sequence in trial PEP2016SAT-ST01
+Inconsistency between trial and file names: PEP2019HUA-ST01 - PEP2019HUA-ST02
+Strange plot sequence in trial PEP2019HUA-ST01
+Inconsistency between trial and file names: PEP2016CSR-ST01 - PEP2016CSR-ST02
+Strange plot sequence in trial PEP2016CSR-ST01
+Inconsistency between trial and file names: PEP2018SAT-ST02 - PEP2018SAT-ST03
+Strange plot sequence in trial PEP2016CSR-ST01
+Inconsistency between trial and file names: PEP2018SAT-ST01 - PEP2018SAT-ST02
+Strange plot sequence in trial PEP2018SAT-ST01
+Inconsistency between trial and file names: PEP2018SAT-ST02 - PEP2018SAT-ST04
+Strange plot sequence in trial PEP2018SAT-ST02
+***********************************************
+Breeding program: Ghana
+***********************************************
+Not checking consistency between trial and file names for Ghana
+due to complexit on the file name
+#########################
+Strange plot sequence in trial GHP2017FMS-ST03
+Strange plot sequence in trial GHP2017WCH-ST01
+Strange plot sequence in trial GHP2017NYK-ST02
+Strange plot sequence in trial GHP2018NYK-ST02
+Strange plot sequence in trial GHP2017WCH-ST02
+Strange plot sequence in trial GHP2013OHW-PT01
+Strange plot sequence in trial GHP2017NYK-ST01
+Strange plot sequence in trial GHP2018FMS-SN03
+Strange plot sequence in trial GHP2013KMD-PT01
+Strange plot sequence in trial GHP2018NYK-SN01
+Strange plot sequence in trial GHP2018NYK-OT03
+Strange plot sequence in trial GHP2018FMS-SN02
+Strange plot sequence in trial GHP2018FMS-ST02
+Strange plot sequence in trial GHP2017NYK-ST03
+***********************************************
+Breeding program: Mozambique
+***********************************************
+Strange plot sequence in trial MZP2013UMB-AT07
+Inconsistency between trial and plot names: MZP2009GUR-MT01 - MZP2009ANG-MT01
+Strange plot sequence in trial MZP2017GUR-ST02
+Strange plot sequence in trial MZP2012CKE-PT01
+***********************************************
+Breeding program: Uganda
+***********************************************
+Strange plot sequence in trial UGP2013NAM-OT01
+Strange plot sequence in trial UGP2018KAC-AT02
+Strange plot sequence in trial UGP2013NAM-OT03
+Strange plot sequence in trial UGP2013NAM-OT02
+Strange plot sequence in trial UGP2018KAC-AT01
+Strange plot sequence in trial UGP2017SER-PT02
+Strange plot sequence in trial UGP2015SER-OT02
+Strange plot sequence in trial UGP2013KAC-PT01
+Strange plot sequence in trial UGP2013NAM-OT04
+Strange plot sequence in trial UGP2015SER-OT01
+Strange plot sequence in trial UGP2013SER-OT04
+Strange plot sequence in trial UGP2018KAC-ST01
+Strange plot sequence in trial UGP2015NAM-OT02
+Strange plot sequence in trial UGP2017NAM-PT03
+Strange plot sequence in trial UGP2017NAM-PT02
+Strange plot sequence in trial UGP2013SER-OT02
+Strange plot sequence in trial UGP2015KAC-PT03
+Strange plot sequence in trial UGP2015KAC-PT02
+Strange plot sequence in trial UGP2013SER-OT01
+Strange plot sequence in trial UGP2012NAM-PT01
+Strange plot sequence in trial UGP2014SER-OT01
+Strange plot sequence in trial UGP2014SER-OT02
+Strange plot sequence in trial UGP2015NAM-PT03
+Strange plot sequence in trial UGP2018SER-AT01
+Strange plot sequence in trial UGP2017KAC-PT03
+Strange plot sequence in trial UGP2015NAM-PT07
+Strange plot sequence in trial UGP2013SER-PT01
+Strange plot sequence in trial UGP2015NAM-PT04
+Strange plot sequence in trial UGP2013NAM-PT01
+Strange plot sequence in trial UGP2018NAM-OT02
+Strange plot sequence in trial UGP2017SER-AT02
+Strange plot sequence in trial UGP2016NAM-PT06
+Strange plot sequence in trial UGP2018NAM-OT01
+Strange plot sequence in trial UGP2018NAM-OT05
+Strange plot sequence in trial UGP2014NAM-OT03
+Strange plot sequence in trial UGP2015SER-PT02
+Strange plot sequence in trial UGP2015SER-PT03
+Strange plot sequence in trial UGP2014NAM-OT02
+Strange plot sequence in trial UGP2018NAM-OT06
+Strange plot sequence in trial UGP2014NAM-OT01
+***********************************************
+Traits
+***********************************************
+Storage root damage estimating 1-9|CO_331:0000206
+Storage root cracking estimating 0-7|CO_331:0000239

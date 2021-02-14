@@ -10,6 +10,10 @@ use Data::Dumper;
 use Spreadsheet::WriteExcel;
 use Spreadsheet::ParseExcel;
 
+###############
+#perl convert_parse_csv_xls.pl -i ~/Documents/datasets/Clean/Peru/SuperClean/ -o excel_new/ -n ~/Documents/datasets/Clean/Peru/Peru_trial_def_final_SPBase.csv -m teste_peru_final.xls
+###############
+
 
 
 my ($folder, $new_folder, $parse_file, $metadata_parse);
@@ -137,6 +141,8 @@ my @trial_name= keys %files_list;
 #Processing new files
 my $z = 0;
 my $line = 0;
+my $tester = 0;
+my $rm_column = 0;
 while ($z <= scalar(@list_files)){
 
 	# # Read/parse CSV
@@ -152,7 +158,9 @@ while ($z <= scalar(@list_files)){
 	$worksheet = $workbook->add_worksheet();
 	
 	my $i =0;
-	my $j =0;
+	my $j =0; #columns
+	$tester = 0;
+	$rm_column = 0;
 	open(my $data, '<', $files_list{$trial_name[$z]}{'old'}) or die "Could not open '$files_list{$trial_name[$z]}{'old'}' $!\n";
 	while (my $row = <$data>) {
 	  chomp $row;
@@ -163,6 +171,12 @@ while ($z <= scalar(@list_files)){
 			$line=0;
 			splice @rows,7,0, "range_number";
 			foreach my $c (@rows){
+				if($c =~ m/treatment/){
+					splice @rows, $j, 1;
+					$tester = 1;
+					$rm_column = $j;
+				}
+
 				if($c eq "VARIABLE_OF COMP:0000024 Virus symptoms estimating 1-9|month 1|before harvest"){
 					@rows[$j] = "Virus symptoms estimating 1-9|month 1|before harvest|COMP:0000024";
 				}
@@ -182,9 +196,15 @@ while ($z <= scalar(@list_files)){
 			}
 			save_excel(@rows);
 		}else{
+			
+			if($tester != 1){
+				splice @rows, 7, 0,"";
+			}else{
+				splice @rows, $rm_column, 1;
+			}
 			$line++;
-			splice @rows, 7, 0,"";
-			save_excel(@rows);
+			save_excel(@rows);	
+			
 		}
 		$i++;
 	}

@@ -127,7 +127,7 @@ while ($z <= scalar(@list_files)){
 	close $fh3;
 
 	 
-	# and write as CSV
+	# and write as txt
 	open $fh3, ">", $new_files[$z] or die "Can't save the file '$new_files[$z]' $!\n";
 	print "The new file is $new_files[$z]\n";
 	print $fh3 (join("\t", @$_), "\n") for @rows;
