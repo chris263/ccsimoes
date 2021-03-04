@@ -10,12 +10,11 @@ use Spreadsheet::ParseExcel;
 use Data::Dumper;
 
 
-my ($folder, $new_folder, $parse_file, $metadata_parse);
+
+my ($folder, $new_folder);
 GetOptions(
     'i=s'        => \$folder, #folder with all raw files
     'o=s'        => \$new_folder #this is the output folder
-    # 'n=s'        => \$parse_file #this is the input with metadata
-    # 'm=s'		 => \$metadata_parse #this the output file
  );
 
 print("My folder in is $folder\nMy folder out is $new_folder\n");

@@ -50,7 +50,7 @@ foreach my $name (@trial_names) {
 }
 
 foreach my $name (@trial_ids){
-	my $call = `perl /home/ccs263/delete_trials.pl -H $dbhost -D $dbname -U postgres -P Eo0vair1 -i $name -b /home/production -r /home/production/temp_file_nd_experiment_id`;
+	my $call = `perl /home/ccs263/chris_delete_trials.pl -H $dbhost -D $dbname -U postgres -P Eo0vair1 -i $name -b /home/production -r /home/production/temp_file_nd_experiment_id`;
 	print $call;
 }
 

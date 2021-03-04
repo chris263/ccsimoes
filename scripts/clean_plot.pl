@@ -40,19 +40,26 @@ my $dbh = CXGN::DB::InsertDBH->new({
 	dbargs => {AutoCommit => 1, RaiseError => 1}
 });
 
+
+print "Type the query term: ";
+my $query = <STDIN>;
+chomp $query;
+
+my $final_query = $query.'%';
+
 my $schema= Bio::Chado::Schema->connect(  sub { $dbh->get_actual_dbh() } );
 $dbh->do('SET search_path TO public,sgn');
 
 print STDERR "Connecting to DBI schema...\n";
-    
+
 
 my @plot_ids = ();
 
 my $coderef = sub {
 	# my $sql = "BEGIN; select uniquename, stock_id from stock left join nd_experiment_stock using (stock_id) where nd_experiment_id = 76182 and stock.type_id = 76393;";
-	my $sql = "BEGIN; select uniquename, stock_id from stock where uniquename ilike '%GHP2010%' and stock.type_id = 76393;";
+	my $sql = "BEGIN; select uniquename, stock_id from stock where uniquename ilike ? and stock.type_id = 76393;";
 	my $sth = $dbh->prepare($sql);
-	$sth->execute();
+	$sth->execute($final_query);
 	while (my @row = $sth->fetchrow_array) {
 		push @plot_ids, $row[1];
 	}
