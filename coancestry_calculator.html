@@ -195,10 +195,11 @@ summary {
 </div>
 
 
-<div id="coancestry-calculator" class="section level2">
-<h2>Coancestry Calculator</h2>
+<div id="input-format-basic-settings" class="section level2">
+<h2>Input Format &amp; Basic Settings</h2>
 <p>This is a tool to calculate the coancestry index. You will need this:</p>
-<p>1 - Import a .csv file with these 3 columns: ID, P1, P2 ID - is the individual name or identification P1 - is the parental 1 or mother P2 - is the parental 2 or father If the individual doesn’t have P1 and P2, fill with 0 (zero).</p>
+<p>1 - Define the working directory using the function setwd().</p>
+<p>2 - Import a .csv file with these 3 columns: ID, P1, P2 ID - is the individual name or identification P1 - is the parental 1 or mother P2 - is the parental 2 or father If the individual doesn’t have P1 and P2, fill with 0 (zero).</p>
 <p>Following there is an example with 3 possible parents and 2 half sib:</p>
 <p>ID,P1,P2<br> A,0,0<br> B,0,0<br> C,0,0<br> D,A,B<br> E,C,B<br></p>
 <pre class="r"><code>#define your work directory
@@ -207,7 +208,14 @@ setwd(&quot;~/Documents/Cornell/PLBRG7170&quot;)
 #Importing the csv file
 infile &lt;- read.csv(&quot;pedigree2.csv&quot;, header = T, sep = &quot;,&quot;)
 
-#Getting all IDs 
+head(infile)</code></pre>
+<pre><code>##   ID P1 P2
+## 1  A  0  0
+## 2  B  0  0
+## 3  C  0  0
+## 4  D  A  B
+## 5  E  C  B</code></pre>
+<pre class="r"><code>#Getting all IDs 
 names &lt;- infile$ID
 
 #Preparing a matrix nxn with all IDs
@@ -215,10 +223,10 @@ coancestry &lt;- matrix(data = &quot;NA&quot;, nrow = nrow(infile), ncol = nrow(
 rownames(coancestry)&lt;-names
 colnames(coancestry)&lt;-names</code></pre>
 </div>
-<div id="calculating-the-coancestry" class="section level2">
-<h2>Calculating the coancestry</h2>
+<div id="tabular-method" class="section level2">
+<h2>Tabular Method</h2>
 <ol style="list-style-type: decimal">
-<li><p>Number individuals so that parents precede their ospring (e.g., from oldest to youngest). This numbering ensures that, when calculating fUV = 1/2 (fDV + fSV ), V is not a descendant of U.</p></li>
+<li><p>Number individuals so that parents precede their offspring (e.g., from oldest to youngest). This numbering ensures that, when calculating fUV = 1/2 (fDV + fSV ), V is not a descendant of U.</p></li>
 <li><p>Founders are assumed not to have common ancestors. Therefore, for founders enter 0 on the o-diagonal and 1/2 on the diagonal</p></li>
 <li><p>Non-founder i has parents d and s (d &lt; i and s &lt; i), and is represented by row i of the matrix. In row i, calculate elements 1 to i - 1 by averaging the corresponding elements from rows d and s, following the rule fij = 1/2 (fdj + fsj)</p></li>
 <li><p>Set element i of row i (i.e., the diagonal element) to 1/2(1+fsd), following the rule for the coancestry of an individual with itself fii = 1/2(1 + fsd)</p></li>
@@ -257,12 +265,18 @@ colnames(coancestry)&lt;-names</code></pre>
   }
 }
 # library(dplyr)
+
+coancestry &lt;- cbind(infile$P1,infile$P2, coancestry)
+colnames(coancestry) &lt;-c(&quot;P1&quot;,&quot;P2&quot;, names) 
+
 final_table &lt;- knitr::kable(coancestry)
 final_table</code></pre>
 <table>
 <thead>
 <tr class="header">
 <th align="left"></th>
+<th align="left">P1</th>
+<th align="left">P2</th>
 <th align="left">A</th>
 <th align="left">B</th>
 <th align="left">C</th>
@@ -273,6 +287,8 @@ final_table</code></pre>
 <tbody>
 <tr class="odd">
 <td align="left">A</td>
+<td align="left">0</td>
+<td align="left">0</td>
 <td align="left">0.5</td>
 <td align="left">0</td>
 <td align="left">0</td>
@@ -281,6 +297,8 @@ final_table</code></pre>
 </tr>
 <tr class="even">
 <td align="left">B</td>
+<td align="left">0</td>
+<td align="left">0</td>
 <td align="left">0</td>
 <td align="left">0.5</td>
 <td align="left">0</td>
@@ -291,12 +309,16 @@ final_table</code></pre>
 <td align="left">C</td>
 <td align="left">0</td>
 <td align="left">0</td>
+<td align="left">0</td>
+<td align="left">0</td>
 <td align="left">0.5</td>
 <td align="left">0</td>
 <td align="left">0.25</td>
 </tr>
 <tr class="even">
 <td align="left">D</td>
+<td align="left">A</td>
+<td align="left">B</td>
 <td align="left">0.25</td>
 <td align="left">0.25</td>
 <td align="left">0</td>
@@ -305,6 +327,8 @@ final_table</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">E</td>
+<td align="left">C</td>
+<td align="left">B</td>
 <td align="left">0</td>
 <td align="left">0.25</td>
 <td align="left">0.25</td>

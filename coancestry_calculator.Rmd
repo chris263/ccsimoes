@@ -11,11 +11,13 @@ knitr::opts_chunk$set(message=FALSE)
 knitr::opts_chunk$set(cache=FALSE)
 ```
 
-## Coancestry Calculator
+## Input Format & Basic Settings 
 
 This is a tool to calculate the coancestry index. You will need this:
 
-1 - Import a .csv file with these 3 columns: ID, P1, P2 
+1 - Define the working directory using the function setwd().
+
+2 - Import a .csv file with these 3 columns: ID, P1, P2 
 ID - is the individual name or identification
 P1 - is the parental 1 or mother
 P2 - is the parental 2 or father
@@ -40,6 +42,8 @@ setwd("~/Documents/Cornell/PLBRG7170")
 #Importing the csv file
 infile <- read.csv("pedigree2.csv", header = T, sep = ",")
 
+head(infile)
+
 #Getting all IDs 
 names <- infile$ID
 
@@ -50,9 +54,9 @@ colnames(coancestry)<-names
 
 ```
 
-## Calculating the coancestry 
+## Tabular Method
 
-1. Number individuals so that parents precede their ospring (e.g., from oldest to youngest). This numbering ensures that, when calculating 
+1. Number individuals so that parents precede their offspring (e.g., from oldest to youngest). This numbering ensures that, when calculating 
 fUV = 1/2 (fDV + fSV ), V is not a descendant of U.
 
 2. Founders are assumed not to have common ancestors. Therefore, for founders enter 0 on the o-diagonal and 1/2 on the diagonal
@@ -99,6 +103,10 @@ for(i in 1:nrow(infile)){
   }
 }
 # library(dplyr)
+
+coancestry <- cbind(infile$P1,infile$P2, coancestry)
+colnames(coancestry) <-c("P1","P2", names) 
+
 final_table <- knitr::kable(coancestry)
 final_table
 ```
