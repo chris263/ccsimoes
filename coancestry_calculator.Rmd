@@ -38,7 +38,7 @@ E,C,B<br>
 setwd("~/Documents/Cornell/PLBRG7170")
 
 #Importing the csv file
-infile <- read.csv("pedigree.csv", header = T, sep = ",")
+infile <- read.csv("pedigree2.csv", header = T, sep = ",")
 
 #Getting all IDs 
 names <- infile$ID

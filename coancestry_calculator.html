@@ -205,7 +205,7 @@ summary {
 setwd(&quot;~/Documents/Cornell/PLBRG7170&quot;)
 
 #Importing the csv file
-infile &lt;- read.csv(&quot;pedigree.csv&quot;, header = T, sep = &quot;,&quot;)
+infile &lt;- read.csv(&quot;pedigree2.csv&quot;, header = T, sep = &quot;,&quot;)
 
 #Getting all IDs 
 names &lt;- infile$ID
@@ -260,27 +260,6 @@ colnames(coancestry)&lt;-names</code></pre>
 final_table &lt;- knitr::kable(coancestry)
 final_table</code></pre>
 <table>
-<colgroup>
-<col width="2%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-<col width="5%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left"></th>
@@ -289,19 +268,6 @@ final_table</code></pre>
 <th align="left">C</th>
 <th align="left">D</th>
 <th align="left">E</th>
-<th align="left">F</th>
-<th align="left">G</th>
-<th align="left">H</th>
-<th align="left">I</th>
-<th align="left">J</th>
-<th align="left">K</th>
-<th align="left">L</th>
-<th align="left">M</th>
-<th align="left">N</th>
-<th align="left">O</th>
-<th align="left">P</th>
-<th align="left">Q</th>
-<th align="left">X</th>
 </tr>
 </thead>
 <tbody>
@@ -311,20 +277,7 @@ final_table</code></pre>
 <td align="left">0</td>
 <td align="left">0</td>
 <td align="left">0.25</td>
-<td align="left">0.25</td>
 <td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0.062</td>
-<td align="left">0.062</td>
-<td align="left">0</td>
-<td align="left">0.094</td>
-<td align="left">0.031</td>
-<td align="left">0.062</td>
 </tr>
 <tr class="even">
 <td align="left">B</td>
@@ -333,19 +286,6 @@ final_table</code></pre>
 <td align="left">0</td>
 <td align="left">0.25</td>
 <td align="left">0.25</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0.188</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0.094</td>
-<td align="left">0.11</td>
 </tr>
 <tr class="odd">
 <td align="left">C</td>
@@ -353,20 +293,7 @@ final_table</code></pre>
 <td align="left">0</td>
 <td align="left">0.5</td>
 <td align="left">0</td>
-<td align="left">0</td>
 <td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.062</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.031</td>
-<td align="left">0.062</td>
-<td align="left">0.046</td>
 </tr>
 <tr class="even">
 <td align="left">D</td>
@@ -374,314 +301,15 @@ final_table</code></pre>
 <td align="left">0.25</td>
 <td align="left">0</td>
 <td align="left">0.5</td>
-<td align="left">0.25</td>
 <td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.188</td>
-<td align="left">0.062</td>
-<td align="left">0.25</td>
-<td align="left">0.094</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.172</td>
-<td align="left">0.062</td>
-<td align="left">0.117</td>
 </tr>
 <tr class="odd">
 <td align="left">E</td>
-<td align="left">0.25</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0.5</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.312</td>
-<td align="left">0.062</td>
-<td align="left">0.125</td>
-<td align="left">0.156</td>
-<td align="left">0.187</td>
-<td align="left">0</td>
-<td align="left">0.141</td>
-<td align="left">0.094</td>
-<td align="left">0.117</td>
-</tr>
-<tr class="even">
-<td align="left">F</td>
 <td align="left">0</td>
 <td align="left">0.25</td>
 <td align="left">0.25</td>
-<td align="left">0.125</td>
 <td align="left">0.125</td>
 <td align="left">0.5</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.312</td>
-<td align="left">0.25</td>
-<td align="left">0.062</td>
-<td align="left">0.156</td>
-<td align="left">0.281</td>
-<td align="left">0</td>
-<td align="left">0.109</td>
-<td align="left">0.141</td>
-<td align="left">0.125</td>
-</tr>
-<tr class="odd">
-<td align="left">G</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.5</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.062</td>
-<td align="left">0.031</td>
-</tr>
-<tr class="even">
-<td align="left">H</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.5</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.062</td>
-</tr>
-<tr class="odd">
-<td align="left">I</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.5</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.062</td>
-</tr>
-<tr class="even">
-<td align="left">J</td>
-<td align="left">0.125</td>
-<td align="left">0.25</td>
-<td align="left">0.125</td>
-<td align="left">0.188</td>
-<td align="left">0.312</td>
-<td align="left">0.312</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.562</td>
-<td align="left">0.156</td>
-<td align="left">0.094</td>
-<td align="left">0.281</td>
-<td align="left">0.359</td>
-<td align="left">0</td>
-<td align="left">0.188</td>
-<td align="left">0.18</td>
-<td align="left">0.184</td>
-</tr>
-<tr class="odd">
-<td align="left">K</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0.062</td>
-<td align="left">0.062</td>
-<td align="left">0.25</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.156</td>
-<td align="left">0.5</td>
-<td align="left">0.031</td>
-<td align="left">0.078</td>
-<td align="left">0.328</td>
-<td align="left">0</td>
-<td align="left">0.054</td>
-<td align="left">0.164</td>
-<td align="left">0.109</td>
-</tr>
-<tr class="even">
-<td align="left">L</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0.125</td>
-<td align="left">0.062</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0</td>
-<td align="left">0.094</td>
-<td align="left">0.031</td>
-<td align="left">0.5</td>
-<td align="left">0.047</td>
-<td align="left">0.062</td>
-<td align="left">0</td>
-<td align="left">0.274</td>
-<td align="left">0.031</td>
-<td align="left">0.153</td>
-</tr>
-<tr class="odd">
-<td align="left">M</td>
-<td align="left">0.062</td>
-<td align="left">0.125</td>
-<td align="left">0.062</td>
-<td align="left">0.094</td>
-<td align="left">0.156</td>
-<td align="left">0.156</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0.281</td>
-<td align="left">0.078</td>
-<td align="left">0.047</td>
-<td align="left">0.5</td>
-<td align="left">0.18</td>
-<td align="left">0</td>
-<td align="left">0.274</td>
-<td align="left">0.09</td>
-<td align="left">0.182</td>
-</tr>
-<tr class="even">
-<td align="left">N</td>
-<td align="left">0.062</td>
-<td align="left">0.188</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0.187</td>
-<td align="left">0.281</td>
-<td align="left">0.125</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.359</td>
-<td align="left">0.328</td>
-<td align="left">0.062</td>
-<td align="left">0.18</td>
-<td align="left">0.578</td>
-<td align="left">0</td>
-<td align="left">0.121</td>
-<td align="left">0.289</td>
-<td align="left">0.205</td>
-</tr>
-<tr class="odd">
-<td align="left">O</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.5</td>
-<td align="left">0</td>
-<td align="left">0.25</td>
-<td align="left">0.125</td>
-</tr>
-<tr class="even">
-<td align="left">P</td>
-<td align="left">0.094</td>
-<td align="left">0.125</td>
-<td align="left">0.031</td>
-<td align="left">0.172</td>
-<td align="left">0.141</td>
-<td align="left">0.109</td>
-<td align="left">0</td>
-<td align="left">0.125</td>
-<td align="left">0.125</td>
-<td align="left">0.188</td>
-<td align="left">0.054</td>
-<td align="left">0.274</td>
-<td align="left">0.274</td>
-<td align="left">0.121</td>
-<td align="left">0</td>
-<td align="left">0.523</td>
-<td align="left">0.06</td>
-<td align="left">0.292</td>
-</tr>
-<tr class="odd">
-<td align="left">Q</td>
-<td align="left">0.031</td>
-<td align="left">0.094</td>
-<td align="left">0.062</td>
-<td align="left">0.062</td>
-<td align="left">0.094</td>
-<td align="left">0.141</td>
-<td align="left">0.062</td>
-<td align="left">0</td>
-<td align="left">0</td>
-<td align="left">0.18</td>
-<td align="left">0.164</td>
-<td align="left">0.031</td>
-<td align="left">0.09</td>
-<td align="left">0.289</td>
-<td align="left">0.25</td>
-<td align="left">0.06</td>
-<td align="left">0.5</td>
-<td align="left">0.28</td>
-</tr>
-<tr class="even">
-<td align="left">X</td>
-<td align="left">0.062</td>
-<td align="left">0.11</td>
-<td align="left">0.046</td>
-<td align="left">0.117</td>
-<td align="left">0.117</td>
-<td align="left">0.125</td>
-<td align="left">0.031</td>
-<td align="left">0.062</td>
-<td align="left">0.062</td>
-<td align="left">0.184</td>
-<td align="left">0.109</td>
-<td align="left">0.153</td>
-<td align="left">0.182</td>
-<td align="left">0.205</td>
-<td align="left">0.125</td>
-<td align="left">0.292</td>
-<td align="left">0.28</td>
-<td align="left">0.53</td>
 </tr>
 </tbody>
 </table>
